@@ -5,18 +5,6 @@
             "nome": "Horacio",
             "tarefas": 1,
             "pontos": 10
-        },
-        {
-            "id": 2,
-            "nome": "Mario",
-            "tarefas": 2,
-            "pontos": 15
-        },
-        {
-            "id": 3,
-            "nome": "Noe",
-            "tarefas": 1,
-            "pontos": 13
         }
     ]
 }
