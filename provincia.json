@@ -1,0 +1,112 @@
+{
+    "Angola": [
+        {
+            "id": 1,
+            "nome": "Cabinda",
+            "capital": "Cabinda",
+            "municipios": 4
+        },
+        {
+            "id": 2,
+            "nome": "Zaire",
+            "capital": "M'banza Kongo",
+            "municipios": 6
+        },
+        {
+            "id": 3,
+            "nome": "Uíge",
+            "capital": "Uíge",
+            "municipios": 16
+        },
+        {
+            "id": 4,
+            "nome": "Luanda",
+            "capital": "Luanda",
+            "municipios": 9
+        },
+        {
+            "id": 5,
+            "nome": "Bengo",
+            "capital": "Caxito",
+            "municipios": 6
+        },
+        {
+            "id": 6,
+            "nome": "Kwanza Norte",
+            "capital": "N'dalatando",
+            "municipios": 10
+        },
+        {
+            "id": 7,
+            "nome": "Kwanza Sul",
+            "capital": "Sumbe",
+            "municipios": 12
+        },
+        {
+            "id": 8,
+            "nome": "Malanje",
+            "capital": "Malanje",
+            "municipios": 14
+        },
+        {
+            "id": 9,
+            "nome": "Lunda Norte",
+            "capital": "Dundo",
+            "municipios": 10
+        },
+        {
+            "id": 10,
+            "nome": "Lunda Sul",
+            "capital": "Saurimo",
+            "municipios": 4
+        },
+        {
+            "id": 11,
+            "nome": "Bié",
+            "capital": "Cuito",
+            "municipios": 9
+        },
+        {
+            "id": 12,
+            "nome": "Huambo",
+            "capital": "Huambo",
+            "municipios": 11
+        },
+        {
+            "id": 13,
+            "nome": "Moxico",
+            "capital": "Luena",
+            "municipios": 9
+        },
+        {
+            "id": 14,
+            "nome": "Benguela",
+            "capital": "Benguela",
+            "municipios": 10
+        },
+        {
+            "id": 15,
+            "nome": "Namibe",
+            "capital": "Moçâmedes",
+            "municipios": 5
+        },
+        {
+            "id": 16,
+            "nome": "Cunene",
+            "capital": "Ondjiva",
+            "municipios": 6
+        },
+        {
+            "id": 17,
+            "nome": "Huíla",
+            "capital": "Lubango",
+            "municipios": 14
+        },
+        {
+            "id": 18,
+            "nome": "Cuando Cubango",
+            "capital": "Menongue",
+            "municipios": 9
+        }
+    ]
+}
