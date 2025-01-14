@@ -1,0 +1,37 @@
+[
+  {
+      "id": 1,
+      "titulo": "Desafio de Introdução ao Python",
+      "descricao": "Resolva problemas básicos de programação usando Python.",
+      "dificuldade": "Fácil",
+      "data_limite": "2025-01-20"
+  },
+  {
+      "id": 2,
+      "titulo": "Automatização com Python",
+      "descricao": "Crie um script para automatizar tarefas repetitivas.",
+      "dificuldade": "Médio",
+      "data_limite": "2025-01-25"
+  },
+  {
+      "id": 3,
+      "titulo": "Análise de Dados",
+      "descricao": "Utilize bibliotecas como Pandas e Matplotlib para analisar e visualizar dados.",
+      "dificuldade": "Difícil",
+      "data_limite": "2025-02-01"
+  },
+  {
+      "id": 4,
+      "titulo": "Desenvolvimento Web com Flask",
+      "descricao": "Crie uma aplicação web simples usando o framework Flask.",
+      "dificuldade": "Médio",
+      "data_limite": "2025-02-10"
+  },
+  {
+      "id": 5,
+      "titulo": "Desafio de Algoritmos",
+      "descricao": "Implemente algoritmos eficientes para resolver problemas complexos.",
+      "dificuldade": "Difícil",
+      "data_limite": "2025-02-15"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "tarefas":[
+    {
+      "id": 1,
+      "titulo": "Finalizar projeto",
+      "descricao": "Preciso finalizar o projeto até sexta-feira.",
+      "data": "2025-01-10",
+      "hora": "15:00"
+    },
+    {
+      "id": 2,
+      "titulo": "Reunião com equipe",
+      "descricao": "Discutir ideias para o novo projeto.",
+      "data": "2025-01-12",
+      "hora": "10:00"
+    }
+  ]
+  
+}
