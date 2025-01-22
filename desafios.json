@@ -3,13 +3,60 @@
         "id": 1,
         "titulo": "Desafio de Introdução ao Python",
         "descricao": "Resolva problemas básicos de programação usando Python.",
-        "conteudo": "Quando começamos a aprender programação, um dos primeiros programas que escrevemos é aquele que realiza a soma de dois números. Ele é simples, mas ensina conceitos fundamentais, como entrada de dados, operações matemáticas e exibição de resultados...\n\n### Exemplo de Código:\n```\n# Solicitar ao usuário dois números\nnumero1 = input(\"Digite o primeiro número: \")\nnumero2 = input(\"Digite o segundo número: \")\n\n# Converter os números de texto para inteiro\nnumero1 = int(numero1)\nnumero2 = int(numero2)\n\n# Somar os dois números\nsoma = numero1 + numero2\n\n# Exibir o resultado\nprint(f\"A soma de {numero1} e {numero2} é {soma}.\")\n```\n\nDesafio: Modifique o programa para trabalhar com números decimais."
+        "conteudo": ""
     },
     {
         "id": 2,
         "titulo": "Desafio de Lógica Básica",
         "descricao": "Crie um programa que verifica se um número é par ou ímpar.",
         "conteudo": "Este desafio exige que você crie um programa para verificar se um número digitado pelo usuário é par ou ímpar. Para isso, use o operador de módulo (%) e retorne a mensagem correta para o usuário."
+    },
+    {
+        "id": 3,
+        "titulo": "Desafio de Operações Aritméticas",
+        "descricao": "Crie um programa que realiza operações básicas (soma, subtração, multiplicação, divisão) com dois números.",
+        "conteudo": "Neste desafio, você deve criar um programa que recebe dois números e realiza as quatro operações básicas. O programa deve exibir os resultados para o usuário de forma clara."
+    },
+    {
+        "id": 4,
+        "titulo": "Desafio de Controle Condicional",
+        "descricao": "Crie um programa que verifica se uma pessoa é maior de idade.",
+        "conteudo": "Você vai usar a estrutura de decisão if/else para verificar se uma pessoa, com base na idade digitada, é maior de idade (18 anos ou mais)."
+    },
+    {
+        "id": 5,
+        "titulo": "Desafio de Listas em Python",
+        "descricao": "Crie uma lista de 5 números e calcule a média.",
+        "conteudo": "Este desafio pede para você criar uma lista com 5 números e depois calcular a média desses números. Lembre-se de usar a função sum() e o comprimento da lista."
+    },
+    {
+        "id": 6,
+        "titulo": "Desafio de Laços de Repetição",
+        "descricao": "Crie um programa que imprime números de 1 a 10 usando um laço de repetição.",
+        "conteudo": "Use um laço for para imprimir os números de 1 a 10. Você pode usar a função range() para criar a sequência de números."
+    },
+    {
+        "id": 7,
+        "titulo": "Desafio de Funções",
+        "descricao": "Crie uma função que recebe dois números e retorna a soma deles.",
+        "conteudo": "Neste desafio, você vai criar uma função simples que recebe dois números como argumentos e retorna a soma deles. Lembre-se de usar a palavra-chave 'def' para definir a função."
+    },
+    {
+        "id": 8,
+        "titulo": "Desafio de Strings",
+        "descricao": "Crie um programa que recebe uma palavra e conta o número de letras nela.",
+        "conteudo": "Neste desafio, você vai usar métodos de string em Python para contar o número de caracteres de uma palavra digitada pelo usuário."
+    },
+    {
+        "id": 9,
+        "titulo": "Desafio de Dicionários",
+        "descricao": "Crie um dicionário que armazena o nome de 3 pessoas e suas idades, e depois imprima as idades.",
+        "conteudo": "Você vai criar um dicionário com três pares chave-valor, sendo o nome da pessoa a chave e a idade o valor. Depois, use um laço para imprimir as idades."
+    },
+    {
+        "id": 10,
+        "titulo": "Desafio de Manipulação de Arquivos",
+        "descricao": "Crie um programa que grava uma mensagem em um arquivo de texto.",
+        "conteudo": "Neste desafio, você vai usar o Python para abrir um arquivo de texto em modo de escrita e gravar uma mensagem nele. Depois, abra o arquivo novamente para ler a mensagem gravada."
     }
-  ]
-  
+]
