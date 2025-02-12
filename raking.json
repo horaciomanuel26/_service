@@ -15,8 +15,8 @@
         {
             "id": 3,
             "nome": "Igor",
-            "tarefas": 0,
-            "pontos": 0
+            "tarefas": 1,
+            "pontos": 10
         },
         {
             "id": 4,
@@ -41,6 +41,24 @@
             "nome": "Etelvina Flavours",
             "tarefas": 0,
             "pontos": 0
+        },
+        {
+            "id": 8,
+            "nome": "Tomais Mendes",
+            "tarefas": 0,
+            "pontos": 10
+        },
+        {
+            "id": 9,
+            "nome": "Julho Vapor",
+            "tarefas": 0,
+            "pontos": 10
+        },
+        {
+            "id": 10,
+            "nome": "Mario Moundo",
+            "tarefas": 0,
+            "pontos": 10
         }
     ]
 }
