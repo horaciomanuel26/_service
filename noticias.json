@@ -1,16 +1,44 @@
 {
-    "noticias":[
+    "noticias": [
         {
-            "title": "Título da Notícia 1",
-            "descricao":"descrição de uma noticias"
+            "title": "Python 3.13 trará melhorias de desempenho",
+            "descricao": "A nova versão do Python promete mais eficiência e otimizações no interpretador, melhorando a velocidade de execução."
         },
         {
-            "title": "Título da Notícia 2",
-            "descricao":"descrição de uma noticias"
+            "title": "OpenAI lança GPT-5 com avanços em IA",
+            "descricao": "O novo modelo de inteligência artificial da OpenAI apresenta melhor entendimento de contexto e respostas mais precisas."
         },
         {
-            "title": "Título da Notícia 3",
-            "descricao":"descrição de uma noticias"
+            "title": "Nova IA escreve código Python automaticamente",
+            "descricao": "Pesquisadores desenvolveram um modelo de IA capaz de gerar código funcional em Python a partir de descrições em linguagem natural."
+        },
+        {
+            "title": "Python é a linguagem mais popular para IA",
+            "descricao": "Estudos mostram que Python continua sendo a principal escolha para desenvolvimento de machine learning e deep learning."
+        },
+        {
+            "title": "Bibliotecas Python facilitam IA para pequenas empresas",
+            "descricao": "Frameworks como FastAI e AutoML permitem que empresas implementem inteligência artificial sem necessidade de grandes equipes técnicas."
+        },
+        {
+            "title": "Python impulsiona detecção de fraudes bancárias",
+            "descricao": "Bancos estão utilizando machine learning em Python para identificar e prevenir fraudes financeiras com maior eficiência."
+        },
+        {
+            "title": "IA e Python ajudam na previsão do clima",
+            "descricao": "Modelos de machine learning estão sendo usados para analisar dados climáticos e prever mudanças ambientais com mais precisão."
+        },
+        {
+            "title": "IA com Python melhora diagnóstico de doenças",
+            "descricao": "Sistemas inteligentes analisam exames médicos para detectar sinais precoces de doenças como câncer e Alzheimer."
+        },
+        {
+            "title": "Python domina o desenvolvimento de chatbots",
+            "descricao": "Com frameworks como Rasa e Hugging Face, Python se destaca como a principal linguagem para assistentes virtuais inteligentes."
+        },
+        {
+            "title": "Python e IA revolucionam a arte digital",
+            "descricao": "Artistas estão usando algoritmos de IA para criar imagens e composições musicais inovadoras, expandindo os limites da criatividade digital."
         }
     ]
 }
