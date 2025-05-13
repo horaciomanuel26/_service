@@ -9,14 +9,14 @@
         {
             "id": 2,
             "nome": "Noé Júnior",
-            "tarefas": 3,
+            "tarefas":0,
             "pontos": 40
         },
         {
             "id": 3,
             "nome": "Igor",
-            "tarefas": 1,
-            "pontos": 10
+            "tarefas":0,
+            "pontos":0
         },
         {
             "id": 4,
@@ -45,20 +45,20 @@
         {
             "id": 8,
             "nome": "Tomais Mendes",
-            "tarefas": 1,
-            "pontos": 10
+            "tarefas":0,
+            "pontos": 0
         },
         {
             "id": 9,
             "nome": "Julho Vapor",
-            "tarefas": 1,
-            "pontos": 10
+            "tarefas":0,
+            "pontos":0
         },
         {
             "id": 10,
             "nome": "Mario Moundo",
-            "tarefas": 1,
-            "pontos": 10
+            "tarefas":0,
+            "pontos": 0
         }
     ]
 }
