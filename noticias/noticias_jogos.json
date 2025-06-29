@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Notícia 1",
+        "descricao": "Descrição completa da primeira notícia. Aqui está o conteúdo completo.",
+        "imagem": "/imagens/noticias/5.jpg",
+        "data": "2024-12-26"
+    },
+    {
+        "id": 2,
+        "titulo": "Notícia 2",
+        "descricao": "Descrição completa da segunda notícia. Aqui está o conteúdo completo.",
+        "imagem": "/imagens/noticias/2.jpg",
+        "data": "2024-12-25"
+    },
+    {
+        "id": 3,
+        "titulo": "Notícia 2",
+        "descricao": "3Descrição completa da segunda notícia. Aqui está o conteúdo completo.",
+        "imagem": "/imagens/noticias/3.jpg",
+        "data": "2024-12-25"
+    }
+]
