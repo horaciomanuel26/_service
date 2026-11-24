@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "destino": "Quedas de Kalandula",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Quedas de Kalandula é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Quedas de Kalandula — miradouro",
+      "Quedas de Kalandula — percurso local",
+      "Quedas de Kalandula — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 5000,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 2,
+    "destino": "Praia do Mussulo",
+    "provincia": "Luanda",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Praia do Mussulo é um destino de interesse turístico na província de Luanda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Praia do Mussulo — miradouro",
+      "Praia do Mussulo — percurso local",
+      "Praia do Mussulo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 7750,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 3,
+    "destino": "Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Tundavala — miradouro",
+      "Tundavala — percurso local",
+      "Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 10500,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 4,
+    "destino": "Serra da Leba",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Paisagem",
+    "descricao": "Serra da Leba é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Serra da Leba — miradouro",
+      "Serra da Leba — percurso local",
+      "Serra da Leba — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 13250,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 5,
+    "destino": "Parque Nacional da Kissama",
+    "provincia": "Icolo e Bengo",
+    "pais": "Angola",
+    "categoria": "Safari",
+    "descricao": "Parque Nacional da Kissama é um destino de interesse turístico na província de Icolo e Bengo, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Parque Nacional da Kissama — miradouro",
+      "Parque Nacional da Kissama — percurso local",
+      "Parque Nacional da Kissama — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 16000,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 6,
+    "destino": "Baía Azul",
+    "provincia": "Benguela",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Baía Azul é um destino de interesse turístico na província de Benguela, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Baía Azul — miradouro",
+      "Baía Azul — percurso local",
+      "Baía Azul — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 18750,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 7,
+    "destino": "Fenda da Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Aventura",
+    "descricao": "Fenda da Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Fenda da Tundavala — miradouro",
+      "Fenda da Tundavala — percurso local",
+      "Fenda da Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 21500,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 8,
+    "destino": "Lagoa do Arco",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Lagoa do Arco é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Lagoa do Arco — miradouro",
+      "Lagoa do Arco — percurso local",
+      "Lagoa do Arco — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 24250,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 9,
+    "destino": "Pedras Negras de Pungo Andongo",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "História",
+    "descricao": "Pedras Negras de Pungo Andongo é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Pedras Negras de Pungo Andongo — miradouro",
+      "Pedras Negras de Pungo Andongo — percurso local",
+      "Pedras Negras de Pungo Andongo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 27000,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 10,
+    "destino": "Floresta do Maiombe",
+    "provincia": "Cabinda",
+    "pais": "Angola",
+    "categoria": "Ecoturismo",
+    "descricao": "Floresta do Maiombe é um destino de interesse turístico na província de Cabinda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Floresta do Maiombe — miradouro",
+      "Floresta do Maiombe — percurso local",
+      "Floresta do Maiombe — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 29750,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 11,
+    "destino": "Quedas de Kalandula",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Quedas de Kalandula é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Quedas de Kalandula — miradouro",
+      "Quedas de Kalandula — percurso local",
+      "Quedas de Kalandula — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 32500,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 12,
+    "destino": "Praia do Mussulo",
+    "provincia": "Luanda",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Praia do Mussulo é um destino de interesse turístico na província de Luanda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Praia do Mussulo — miradouro",
+      "Praia do Mussulo — percurso local",
+      "Praia do Mussulo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 35250,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 13,
+    "destino": "Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Tundavala — miradouro",
+      "Tundavala — percurso local",
+      "Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 38000,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 14,
+    "destino": "Serra da Leba",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Paisagem",
+    "descricao": "Serra da Leba é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Serra da Leba — miradouro",
+      "Serra da Leba — percurso local",
+      "Serra da Leba — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 40750,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 15,
+    "destino": "Parque Nacional da Kissama",
+    "provincia": "Icolo e Bengo",
+    "pais": "Angola",
+    "categoria": "Safari",
+    "descricao": "Parque Nacional da Kissama é um destino de interesse turístico na província de Icolo e Bengo, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Parque Nacional da Kissama — miradouro",
+      "Parque Nacional da Kissama — percurso local",
+      "Parque Nacional da Kissama — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 43500,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 16,
+    "destino": "Baía Azul",
+    "provincia": "Benguela",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Baía Azul é um destino de interesse turístico na província de Benguela, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Baía Azul — miradouro",
+      "Baía Azul — percurso local",
+      "Baía Azul — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 46250,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 17,
+    "destino": "Fenda da Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Aventura",
+    "descricao": "Fenda da Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Fenda da Tundavala — miradouro",
+      "Fenda da Tundavala — percurso local",
+      "Fenda da Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 49000,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 18,
+    "destino": "Lagoa do Arco",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Lagoa do Arco é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Lagoa do Arco — miradouro",
+      "Lagoa do Arco — percurso local",
+      "Lagoa do Arco — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 51750,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 19,
+    "destino": "Pedras Negras de Pungo Andongo",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "História",
+    "descricao": "Pedras Negras de Pungo Andongo é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Pedras Negras de Pungo Andongo — miradouro",
+      "Pedras Negras de Pungo Andongo — percurso local",
+      "Pedras Negras de Pungo Andongo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 54500,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 20,
+    "destino": "Floresta do Maiombe",
+    "provincia": "Cabinda",
+    "pais": "Angola",
+    "categoria": "Ecoturismo",
+    "descricao": "Floresta do Maiombe é um destino de interesse turístico na província de Cabinda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Floresta do Maiombe — miradouro",
+      "Floresta do Maiombe — percurso local",
+      "Floresta do Maiombe — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 57250,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 21,
+    "destino": "Quedas de Kalandula",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Quedas de Kalandula é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Quedas de Kalandula — miradouro",
+      "Quedas de Kalandula — percurso local",
+      "Quedas de Kalandula — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 60000,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 22,
+    "destino": "Praia do Mussulo",
+    "provincia": "Luanda",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Praia do Mussulo é um destino de interesse turístico na província de Luanda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Praia do Mussulo — miradouro",
+      "Praia do Mussulo — percurso local",
+      "Praia do Mussulo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 62750,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 23,
+    "destino": "Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Tundavala — miradouro",
+      "Tundavala — percurso local",
+      "Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 65500,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 24,
+    "destino": "Serra da Leba",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Paisagem",
+    "descricao": "Serra da Leba é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Serra da Leba — miradouro",
+      "Serra da Leba — percurso local",
+      "Serra da Leba — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 68250,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 25,
+    "destino": "Parque Nacional da Kissama",
+    "provincia": "Icolo e Bengo",
+    "pais": "Angola",
+    "categoria": "Safari",
+    "descricao": "Parque Nacional da Kissama é um destino de interesse turístico na província de Icolo e Bengo, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Parque Nacional da Kissama — miradouro",
+      "Parque Nacional da Kissama — percurso local",
+      "Parque Nacional da Kissama — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 71000,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 26,
+    "destino": "Baía Azul",
+    "provincia": "Benguela",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Baía Azul é um destino de interesse turístico na província de Benguela, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Baía Azul — miradouro",
+      "Baía Azul — percurso local",
+      "Baía Azul — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 73750,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 27,
+    "destino": "Fenda da Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Aventura",
+    "descricao": "Fenda da Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Fenda da Tundavala — miradouro",
+      "Fenda da Tundavala — percurso local",
+      "Fenda da Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 76500,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 28,
+    "destino": "Lagoa do Arco",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Lagoa do Arco é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Lagoa do Arco — miradouro",
+      "Lagoa do Arco — percurso local",
+      "Lagoa do Arco — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 79250,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 29,
+    "destino": "Pedras Negras de Pungo Andongo",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "História",
+    "descricao": "Pedras Negras de Pungo Andongo é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Pedras Negras de Pungo Andongo — miradouro",
+      "Pedras Negras de Pungo Andongo — percurso local",
+      "Pedras Negras de Pungo Andongo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 82000,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 30,
+    "destino": "Floresta do Maiombe",
+    "provincia": "Cabinda",
+    "pais": "Angola",
+    "categoria": "Ecoturismo",
+    "descricao": "Floresta do Maiombe é um destino de interesse turístico na província de Cabinda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Floresta do Maiombe — miradouro",
+      "Floresta do Maiombe — percurso local",
+      "Floresta do Maiombe — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 84750,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 31,
+    "destino": "Quedas de Kalandula",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Quedas de Kalandula é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Quedas de Kalandula — miradouro",
+      "Quedas de Kalandula — percurso local",
+      "Quedas de Kalandula — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 87500,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 32,
+    "destino": "Praia do Mussulo",
+    "provincia": "Luanda",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Praia do Mussulo é um destino de interesse turístico na província de Luanda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Praia do Mussulo — miradouro",
+      "Praia do Mussulo — percurso local",
+      "Praia do Mussulo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 90250,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 33,
+    "destino": "Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Tundavala — miradouro",
+      "Tundavala — percurso local",
+      "Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 93000,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 34,
+    "destino": "Serra da Leba",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Paisagem",
+    "descricao": "Serra da Leba é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Serra da Leba — miradouro",
+      "Serra da Leba — percurso local",
+      "Serra da Leba — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 95750,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 35,
+    "destino": "Parque Nacional da Kissama",
+    "provincia": "Icolo e Bengo",
+    "pais": "Angola",
+    "categoria": "Safari",
+    "descricao": "Parque Nacional da Kissama é um destino de interesse turístico na província de Icolo e Bengo, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Parque Nacional da Kissama — miradouro",
+      "Parque Nacional da Kissama — percurso local",
+      "Parque Nacional da Kissama — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 98500,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 36,
+    "destino": "Baía Azul",
+    "provincia": "Benguela",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Baía Azul é um destino de interesse turístico na província de Benguela, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Baía Azul — miradouro",
+      "Baía Azul — percurso local",
+      "Baía Azul — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 6250,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 37,
+    "destino": "Fenda da Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Aventura",
+    "descricao": "Fenda da Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Fenda da Tundavala — miradouro",
+      "Fenda da Tundavala — percurso local",
+      "Fenda da Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 9000,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 38,
+    "destino": "Lagoa do Arco",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Lagoa do Arco é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Lagoa do Arco — miradouro",
+      "Lagoa do Arco — percurso local",
+      "Lagoa do Arco — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 11750,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 39,
+    "destino": "Pedras Negras de Pungo Andongo",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "História",
+    "descricao": "Pedras Negras de Pungo Andongo é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Pedras Negras de Pungo Andongo — miradouro",
+      "Pedras Negras de Pungo Andongo — percurso local",
+      "Pedras Negras de Pungo Andongo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 14500,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 40,
+    "destino": "Floresta do Maiombe",
+    "provincia": "Cabinda",
+    "pais": "Angola",
+    "categoria": "Ecoturismo",
+    "descricao": "Floresta do Maiombe é um destino de interesse turístico na província de Cabinda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Floresta do Maiombe — miradouro",
+      "Floresta do Maiombe — percurso local",
+      "Floresta do Maiombe — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 17250,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 41,
+    "destino": "Quedas de Kalandula",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Quedas de Kalandula é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Quedas de Kalandula — miradouro",
+      "Quedas de Kalandula — percurso local",
+      "Quedas de Kalandula — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 20000,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 42,
+    "destino": "Praia do Mussulo",
+    "provincia": "Luanda",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Praia do Mussulo é um destino de interesse turístico na província de Luanda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Praia do Mussulo — miradouro",
+      "Praia do Mussulo — percurso local",
+      "Praia do Mussulo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 22750,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 43,
+    "destino": "Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Tundavala — miradouro",
+      "Tundavala — percurso local",
+      "Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 25500,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 44,
+    "destino": "Serra da Leba",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Paisagem",
+    "descricao": "Serra da Leba é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Serra da Leba — miradouro",
+      "Serra da Leba — percurso local",
+      "Serra da Leba — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 28250,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 45,
+    "destino": "Parque Nacional da Kissama",
+    "provincia": "Icolo e Bengo",
+    "pais": "Angola",
+    "categoria": "Safari",
+    "descricao": "Parque Nacional da Kissama é um destino de interesse turístico na província de Icolo e Bengo, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Parque Nacional da Kissama — miradouro",
+      "Parque Nacional da Kissama — percurso local",
+      "Parque Nacional da Kissama — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 31000,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 46,
+    "destino": "Baía Azul",
+    "provincia": "Benguela",
+    "pais": "Angola",
+    "categoria": "Praia",
+    "descricao": "Baía Azul é um destino de interesse turístico na província de Benguela, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Baía Azul — miradouro",
+      "Baía Azul — percurso local",
+      "Baía Azul — zona de visita"
+    ],
+    "duracao_recomendada_dias": 1,
+    "preco_estimado_por_pessoa": 33750,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 47,
+    "destino": "Fenda da Tundavala",
+    "provincia": "Huíla",
+    "pais": "Angola",
+    "categoria": "Aventura",
+    "descricao": "Fenda da Tundavala é um destino de interesse turístico na província de Huíla, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Fenda da Tundavala — miradouro",
+      "Fenda da Tundavala — percurso local",
+      "Fenda da Tundavala — zona de visita"
+    ],
+    "duracao_recomendada_dias": 2,
+    "preco_estimado_por_pessoa": 36500,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  },
+  {
+    "id": 48,
+    "destino": "Lagoa do Arco",
+    "provincia": "Namibe",
+    "pais": "Angola",
+    "categoria": "Natureza",
+    "descricao": "Lagoa do Arco é um destino de interesse turístico na província de Namibe, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Lagoa do Arco — miradouro",
+      "Lagoa do Arco — percurso local",
+      "Lagoa do Arco — zona de visita"
+    ],
+    "duracao_recomendada_dias": 3,
+    "preco_estimado_por_pessoa": 39250,
+    "moeda": "AOA",
+    "melhor_epoca": "Todo o ano"
+  },
+  {
+    "id": 49,
+    "destino": "Pedras Negras de Pungo Andongo",
+    "provincia": "Malanje",
+    "pais": "Angola",
+    "categoria": "História",
+    "descricao": "Pedras Negras de Pungo Andongo é um destino de interesse turístico na província de Malanje, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Pedras Negras de Pungo Andongo — miradouro",
+      "Pedras Negras de Pungo Andongo — percurso local",
+      "Pedras Negras de Pungo Andongo — zona de visita"
+    ],
+    "duracao_recomendada_dias": 4,
+    "preco_estimado_por_pessoa": 42000,
+    "moeda": "AOA",
+    "melhor_epoca": "Maio a Agosto"
+  },
+  {
+    "id": 50,
+    "destino": "Floresta do Maiombe",
+    "provincia": "Cabinda",
+    "pais": "Angola",
+    "categoria": "Ecoturismo",
+    "descricao": "Floresta do Maiombe é um destino de interesse turístico na província de Cabinda, indicado para conhecer a paisagem e a cultura local.",
+    "pontos_interesse": [
+      "Floresta do Maiombe — miradouro",
+      "Floresta do Maiombe — percurso local",
+      "Floresta do Maiombe — zona de visita"
+    ],
+    "duracao_recomendada_dias": 5,
+    "preco_estimado_por_pessoa": 44750,
+    "moeda": "AOA",
+    "melhor_epoca": "Setembro a Novembro"
+  }
+]

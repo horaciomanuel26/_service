@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "nome": "Portátil Essencial 01",
+    "descricao": "Portátil da linha NovaTech, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 8500,
+    "moeda": "AOA",
+    "marca": "NovaTech",
+    "especificacoes": [
+      "8 GB RAM",
+      "Garantia de 12 meses"
+    ],
+    "stock": 0,
+    "disponivel": false,
+    "avaliacao": 3.2
+  },
+  {
+    "id": 2,
+    "nome": "Smartphone Plus 02",
+    "descricao": "Smartphone da linha Orion, indicado para utilização diária e profissional.",
+    "categoria": "Telemóveis",
+    "preco": 13231,
+    "moeda": "AOA",
+    "marca": "Orion",
+    "especificacoes": [
+      "256 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 7,
+    "disponivel": true,
+    "avaliacao": 3.3
+  },
+  {
+    "id": 3,
+    "nome": "Auscultadores Pro 03",
+    "descricao": "Auscultadores da linha TekPro, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 17962,
+    "moeda": "AOA",
+    "marca": "TekPro",
+    "especificacoes": [
+      "Com fios",
+      "Garantia de 12 meses"
+    ],
+    "stock": 14,
+    "disponivel": true,
+    "avaliacao": 3.4
+  },
+  {
+    "id": 4,
+    "nome": "Monitor Max 04",
+    "descricao": "Monitor da linha MobiOne, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 22693,
+    "moeda": "AOA",
+    "marca": "MobiOne",
+    "especificacoes": [
+      "24 polegadas",
+      "Garantia de 12 meses"
+    ],
+    "stock": 21,
+    "disponivel": true,
+    "avaliacao": 3.5
+  },
+  {
+    "id": 5,
+    "nome": "Teclado Lite 05",
+    "descricao": "Teclado da linha Kwanza Digital, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 27424,
+    "moeda": "AOA",
+    "marca": "Kwanza Digital",
+    "especificacoes": [
+      "Sem fios",
+      "Garantia de 12 meses"
+    ],
+    "stock": 28,
+    "disponivel": true,
+    "avaliacao": 3.6
+  },
+  {
+    "id": 6,
+    "nome": "Rato Essencial 06",
+    "descricao": "Rato da linha Lumina, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 32155,
+    "moeda": "AOA",
+    "marca": "Lumina",
+    "especificacoes": [
+      "Gaming",
+      "Garantia de 12 meses"
+    ],
+    "stock": 35,
+    "disponivel": true,
+    "avaliacao": 3.7
+  },
+  {
+    "id": 7,
+    "nome": "Tablet Plus 07",
+    "descricao": "Tablet da linha Vértice, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 36886,
+    "moeda": "AOA",
+    "marca": "Vértice",
+    "especificacoes": [
+      "64 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 42,
+    "disponivel": true,
+    "avaliacao": 3.8
+  },
+  {
+    "id": 8,
+    "nome": "Câmara Pro 08",
+    "descricao": "Câmara da linha Aurex, indicado para utilização diária e profissional.",
+    "categoria": "Fotografia",
+    "preco": 41617,
+    "moeda": "AOA",
+    "marca": "Aurex",
+    "especificacoes": [
+      "32 MP",
+      "Garantia de 12 meses"
+    ],
+    "stock": 49,
+    "disponivel": true,
+    "avaliacao": 3.9
+  },
+  {
+    "id": 9,
+    "nome": "Coluna Max 09",
+    "descricao": "Coluna da linha Vertex, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 46348,
+    "moeda": "AOA",
+    "marca": "Vertex",
+    "especificacoes": [
+      "Estéreo",
+      "Garantia de 12 meses"
+    ],
+    "stock": 56,
+    "disponivel": true,
+    "avaliacao": 4.0
+  },
+  {
+    "id": 10,
+    "nome": "Smartwatch Lite 10",
+    "descricao": "Smartwatch da linha Nexa, indicado para utilização diária e profissional.",
+    "categoria": "Wearables",
+    "preco": 51079,
+    "moeda": "AOA",
+    "marca": "Nexa",
+    "especificacoes": [
+      "GPS",
+      "Garantia de 12 meses"
+    ],
+    "stock": 63,
+    "disponivel": true,
+    "avaliacao": 4.1
+  },
+  {
+    "id": 11,
+    "nome": "Portátil Essencial 11",
+    "descricao": "Portátil da linha NovaTech, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 55810,
+    "moeda": "AOA",
+    "marca": "NovaTech",
+    "especificacoes": [
+      "16 GB RAM",
+      "Garantia de 12 meses"
+    ],
+    "stock": 70,
+    "disponivel": true,
+    "avaliacao": 4.2
+  },
+  {
+    "id": 12,
+    "nome": "Smartphone Plus 12",
+    "descricao": "Smartphone da linha Orion, indicado para utilização diária e profissional.",
+    "categoria": "Telemóveis",
+    "preco": 60541,
+    "moeda": "AOA",
+    "marca": "Orion",
+    "especificacoes": [
+      "512 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 77,
+    "disponivel": true,
+    "avaliacao": 4.3
+  },
+  {
+    "id": 13,
+    "nome": "Auscultadores Pro 13",
+    "descricao": "Auscultadores da linha TekPro, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 65272,
+    "moeda": "AOA",
+    "marca": "TekPro",
+    "especificacoes": [
+      "Bluetooth",
+      "Garantia de 12 meses"
+    ],
+    "stock": 84,
+    "disponivel": true,
+    "avaliacao": 4.4
+  },
+  {
+    "id": 14,
+    "nome": "Monitor Max 14",
+    "descricao": "Monitor da linha MobiOne, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 70003,
+    "moeda": "AOA",
+    "marca": "MobiOne",
+    "especificacoes": [
+      "27 polegadas",
+      "Garantia de 12 meses"
+    ],
+    "stock": 5,
+    "disponivel": true,
+    "avaliacao": 4.5
+  },
+  {
+    "id": 15,
+    "nome": "Teclado Lite 15",
+    "descricao": "Teclado da linha Kwanza Digital, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 74734,
+    "moeda": "AOA",
+    "marca": "Kwanza Digital",
+    "especificacoes": [
+      "Compacto",
+      "Garantia de 12 meses"
+    ],
+    "stock": 12,
+    "disponivel": true,
+    "avaliacao": 4.6
+  },
+  {
+    "id": 16,
+    "nome": "Rato Essencial 16",
+    "descricao": "Rato da linha Lumina, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 79465,
+    "moeda": "AOA",
+    "marca": "Lumina",
+    "especificacoes": [
+      "Ótico",
+      "Garantia de 12 meses"
+    ],
+    "stock": 19,
+    "disponivel": true,
+    "avaliacao": 4.7
+  },
+  {
+    "id": 17,
+    "nome": "Tablet Plus 17",
+    "descricao": "Tablet da linha Vértice, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 84196,
+    "moeda": "AOA",
+    "marca": "Vértice",
+    "especificacoes": [
+      "128 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 26,
+    "disponivel": true,
+    "avaliacao": 4.8
+  },
+  {
+    "id": 18,
+    "nome": "Câmara Pro 18",
+    "descricao": "Câmara da linha Aurex, indicado para utilização diária e profissional.",
+    "categoria": "Fotografia",
+    "preco": 88927,
+    "moeda": "AOA",
+    "marca": "Aurex",
+    "especificacoes": [
+      "4K",
+      "Garantia de 12 meses"
+    ],
+    "stock": 33,
+    "disponivel": true,
+    "avaliacao": 4.9
+  },
+  {
+    "id": 19,
+    "nome": "Coluna Max 19",
+    "descricao": "Coluna da linha Vertex, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 93658,
+    "moeda": "AOA",
+    "marca": "Vertex",
+    "especificacoes": [
+      "Portátil",
+      "Garantia de 12 meses"
+    ],
+    "stock": 40,
+    "disponivel": true,
+    "avaliacao": 3.2
+  },
+  {
+    "id": 20,
+    "nome": "Smartwatch Lite 20",
+    "descricao": "Smartwatch da linha Nexa, indicado para utilização diária e profissional.",
+    "categoria": "Wearables",
+    "preco": 98389,
+    "moeda": "AOA",
+    "marca": "Nexa",
+    "especificacoes": [
+      "Monitorização de saúde",
+      "Garantia de 12 meses"
+    ],
+    "stock": 47,
+    "disponivel": true,
+    "avaliacao": 3.3
+  },
+  {
+    "id": 21,
+    "nome": "Portátil Essencial 21",
+    "descricao": "Portátil da linha NovaTech, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 103120,
+    "moeda": "AOA",
+    "marca": "NovaTech",
+    "especificacoes": [
+      "32 GB RAM",
+      "Garantia de 12 meses"
+    ],
+    "stock": 54,
+    "disponivel": true,
+    "avaliacao": 3.4
+  },
+  {
+    "id": 22,
+    "nome": "Smartphone Plus 22",
+    "descricao": "Smartphone da linha Orion, indicado para utilização diária e profissional.",
+    "categoria": "Telemóveis",
+    "preco": 107851,
+    "moeda": "AOA",
+    "marca": "Orion",
+    "especificacoes": [
+      "128 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 61,
+    "disponivel": true,
+    "avaliacao": 3.5
+  },
+  {
+    "id": 23,
+    "nome": "Auscultadores Pro 23",
+    "descricao": "Auscultadores da linha TekPro, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 112582,
+    "moeda": "AOA",
+    "marca": "TekPro",
+    "especificacoes": [
+      "Cancelamento de ruído",
+      "Garantia de 12 meses"
+    ],
+    "stock": 68,
+    "disponivel": true,
+    "avaliacao": 3.6
+  },
+  {
+    "id": 24,
+    "nome": "Monitor Max 24",
+    "descricao": "Monitor da linha MobiOne, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 117313,
+    "moeda": "AOA",
+    "marca": "MobiOne",
+    "especificacoes": [
+      "32 polegadas",
+      "Garantia de 12 meses"
+    ],
+    "stock": 75,
+    "disponivel": true,
+    "avaliacao": 3.7
+  },
+  {
+    "id": 25,
+    "nome": "Teclado Lite 25",
+    "descricao": "Teclado da linha Kwanza Digital, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 122044,
+    "moeda": "AOA",
+    "marca": "Kwanza Digital",
+    "especificacoes": [
+      "Mecânico",
+      "Garantia de 12 meses"
+    ],
+    "stock": 82,
+    "disponivel": true,
+    "avaliacao": 3.8
+  },
+  {
+    "id": 26,
+    "nome": "Rato Essencial 26",
+    "descricao": "Rato da linha Lumina, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 126775,
+    "moeda": "AOA",
+    "marca": "Lumina",
+    "especificacoes": [
+      "Ergonómico",
+      "Garantia de 12 meses"
+    ],
+    "stock": 3,
+    "disponivel": true,
+    "avaliacao": 3.9
+  },
+  {
+    "id": 27,
+    "nome": "Tablet Plus 27",
+    "descricao": "Tablet da linha Vértice, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 131506,
+    "moeda": "AOA",
+    "marca": "Vértice",
+    "especificacoes": [
+      "256 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 10,
+    "disponivel": true,
+    "avaliacao": 4.0
+  },
+  {
+    "id": 28,
+    "nome": "Câmara Pro 28",
+    "descricao": "Câmara da linha Aurex, indicado para utilização diária e profissional.",
+    "categoria": "Fotografia",
+    "preco": 136237,
+    "moeda": "AOA",
+    "marca": "Aurex",
+    "especificacoes": [
+      "24 MP",
+      "Garantia de 12 meses"
+    ],
+    "stock": 17,
+    "disponivel": true,
+    "avaliacao": 4.1
+  },
+  {
+    "id": 29,
+    "nome": "Coluna Max 29",
+    "descricao": "Coluna da linha Vertex, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 140968,
+    "moeda": "AOA",
+    "marca": "Vertex",
+    "especificacoes": [
+      "Inteligente",
+      "Garantia de 12 meses"
+    ],
+    "stock": 24,
+    "disponivel": true,
+    "avaliacao": 4.2
+  },
+  {
+    "id": 30,
+    "nome": "Smartwatch Lite 30",
+    "descricao": "Smartwatch da linha Nexa, indicado para utilização diária e profissional.",
+    "categoria": "Wearables",
+    "preco": 145699,
+    "moeda": "AOA",
+    "marca": "Nexa",
+    "especificacoes": [
+      "Resistente à água",
+      "Garantia de 12 meses"
+    ],
+    "stock": 31,
+    "disponivel": true,
+    "avaliacao": 4.3
+  },
+  {
+    "id": 31,
+    "nome": "Portátil Essencial 31",
+    "descricao": "Portátil da linha NovaTech, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 150430,
+    "moeda": "AOA",
+    "marca": "NovaTech",
+    "especificacoes": [
+      "8 GB RAM",
+      "Garantia de 12 meses"
+    ],
+    "stock": 38,
+    "disponivel": true,
+    "avaliacao": 4.4
+  },
+  {
+    "id": 32,
+    "nome": "Smartphone Plus 32",
+    "descricao": "Smartphone da linha Orion, indicado para utilização diária e profissional.",
+    "categoria": "Telemóveis",
+    "preco": 155161,
+    "moeda": "AOA",
+    "marca": "Orion",
+    "especificacoes": [
+      "256 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 45,
+    "disponivel": true,
+    "avaliacao": 4.5
+  },
+  {
+    "id": 33,
+    "nome": "Auscultadores Pro 33",
+    "descricao": "Auscultadores da linha TekPro, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 159892,
+    "moeda": "AOA",
+    "marca": "TekPro",
+    "especificacoes": [
+      "Com fios",
+      "Garantia de 12 meses"
+    ],
+    "stock": 52,
+    "disponivel": true,
+    "avaliacao": 4.6
+  },
+  {
+    "id": 34,
+    "nome": "Monitor Max 34",
+    "descricao": "Monitor da linha MobiOne, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 164623,
+    "moeda": "AOA",
+    "marca": "MobiOne",
+    "especificacoes": [
+      "24 polegadas",
+      "Garantia de 12 meses"
+    ],
+    "stock": 59,
+    "disponivel": true,
+    "avaliacao": 4.7
+  },
+  {
+    "id": 35,
+    "nome": "Teclado Lite 35",
+    "descricao": "Teclado da linha Kwanza Digital, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 169354,
+    "moeda": "AOA",
+    "marca": "Kwanza Digital",
+    "especificacoes": [
+      "Sem fios",
+      "Garantia de 12 meses"
+    ],
+    "stock": 66,
+    "disponivel": true,
+    "avaliacao": 4.8
+  },
+  {
+    "id": 36,
+    "nome": "Rato Essencial 36",
+    "descricao": "Rato da linha Lumina, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 174085,
+    "moeda": "AOA",
+    "marca": "Lumina",
+    "especificacoes": [
+      "Gaming",
+      "Garantia de 12 meses"
+    ],
+    "stock": 73,
+    "disponivel": true,
+    "avaliacao": 4.9
+  },
+  {
+    "id": 37,
+    "nome": "Tablet Plus 37",
+    "descricao": "Tablet da linha Vértice, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 178816,
+    "moeda": "AOA",
+    "marca": "Vértice",
+    "especificacoes": [
+      "64 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 80,
+    "disponivel": true,
+    "avaliacao": 3.2
+  },
+  {
+    "id": 38,
+    "nome": "Câmara Pro 38",
+    "descricao": "Câmara da linha Aurex, indicado para utilização diária e profissional.",
+    "categoria": "Fotografia",
+    "preco": 183547,
+    "moeda": "AOA",
+    "marca": "Aurex",
+    "especificacoes": [
+      "32 MP",
+      "Garantia de 12 meses"
+    ],
+    "stock": 1,
+    "disponivel": true,
+    "avaliacao": 3.3
+  },
+  {
+    "id": 39,
+    "nome": "Coluna Max 39",
+    "descricao": "Coluna da linha Vertex, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 188278,
+    "moeda": "AOA",
+    "marca": "Vertex",
+    "especificacoes": [
+      "Estéreo",
+      "Garantia de 12 meses"
+    ],
+    "stock": 8,
+    "disponivel": true,
+    "avaliacao": 3.4
+  },
+  {
+    "id": 40,
+    "nome": "Smartwatch Lite 40",
+    "descricao": "Smartwatch da linha Nexa, indicado para utilização diária e profissional.",
+    "categoria": "Wearables",
+    "preco": 193009,
+    "moeda": "AOA",
+    "marca": "Nexa",
+    "especificacoes": [
+      "GPS",
+      "Garantia de 12 meses"
+    ],
+    "stock": 15,
+    "disponivel": true,
+    "avaliacao": 3.5
+  },
+  {
+    "id": 41,
+    "nome": "Portátil Essencial 41",
+    "descricao": "Portátil da linha NovaTech, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 197740,
+    "moeda": "AOA",
+    "marca": "NovaTech",
+    "especificacoes": [
+      "16 GB RAM",
+      "Garantia de 12 meses"
+    ],
+    "stock": 22,
+    "disponivel": true,
+    "avaliacao": 3.6
+  },
+  {
+    "id": 42,
+    "nome": "Smartphone Plus 42",
+    "descricao": "Smartphone da linha Orion, indicado para utilização diária e profissional.",
+    "categoria": "Telemóveis",
+    "preco": 202471,
+    "moeda": "AOA",
+    "marca": "Orion",
+    "especificacoes": [
+      "512 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 29,
+    "disponivel": true,
+    "avaliacao": 3.7
+  },
+  {
+    "id": 43,
+    "nome": "Auscultadores Pro 43",
+    "descricao": "Auscultadores da linha TekPro, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 207202,
+    "moeda": "AOA",
+    "marca": "TekPro",
+    "especificacoes": [
+      "Bluetooth",
+      "Garantia de 12 meses"
+    ],
+    "stock": 36,
+    "disponivel": true,
+    "avaliacao": 3.8
+  },
+  {
+    "id": 44,
+    "nome": "Monitor Max 44",
+    "descricao": "Monitor da linha MobiOne, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 211933,
+    "moeda": "AOA",
+    "marca": "MobiOne",
+    "especificacoes": [
+      "27 polegadas",
+      "Garantia de 12 meses"
+    ],
+    "stock": 43,
+    "disponivel": true,
+    "avaliacao": 3.9
+  },
+  {
+    "id": 45,
+    "nome": "Teclado Lite 45",
+    "descricao": "Teclado da linha Kwanza Digital, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 216664,
+    "moeda": "AOA",
+    "marca": "Kwanza Digital",
+    "especificacoes": [
+      "Compacto",
+      "Garantia de 12 meses"
+    ],
+    "stock": 50,
+    "disponivel": true,
+    "avaliacao": 4.0
+  },
+  {
+    "id": 46,
+    "nome": "Rato Essencial 46",
+    "descricao": "Rato da linha Lumina, indicado para utilização diária e profissional.",
+    "categoria": "Acessórios",
+    "preco": 221395,
+    "moeda": "AOA",
+    "marca": "Lumina",
+    "especificacoes": [
+      "Ótico",
+      "Garantia de 12 meses"
+    ],
+    "stock": 57,
+    "disponivel": true,
+    "avaliacao": 4.1
+  },
+  {
+    "id": 47,
+    "nome": "Tablet Plus 47",
+    "descricao": "Tablet da linha Vértice, indicado para utilização diária e profissional.",
+    "categoria": "Informática",
+    "preco": 226126,
+    "moeda": "AOA",
+    "marca": "Vértice",
+    "especificacoes": [
+      "128 GB",
+      "Garantia de 12 meses"
+    ],
+    "stock": 64,
+    "disponivel": true,
+    "avaliacao": 4.2
+  },
+  {
+    "id": 48,
+    "nome": "Câmara Pro 48",
+    "descricao": "Câmara da linha Aurex, indicado para utilização diária e profissional.",
+    "categoria": "Fotografia",
+    "preco": 230857,
+    "moeda": "AOA",
+    "marca": "Aurex",
+    "especificacoes": [
+      "4K",
+      "Garantia de 12 meses"
+    ],
+    "stock": 71,
+    "disponivel": true,
+    "avaliacao": 4.3
+  },
+  {
+    "id": 49,
+    "nome": "Coluna Max 49",
+    "descricao": "Coluna da linha Vertex, indicado para utilização diária e profissional.",
+    "categoria": "Áudio",
+    "preco": 235588,
+    "moeda": "AOA",
+    "marca": "Vertex",
+    "especificacoes": [
+      "Portátil",
+      "Garantia de 12 meses"
+    ],
+    "stock": 78,
+    "disponivel": true,
+    "avaliacao": 4.4
+  },
+  {
+    "id": 50,
+    "nome": "Smartwatch Lite 50",
+    "descricao": "Smartwatch da linha Nexa, indicado para utilização diária e profissional.",
+    "categoria": "Wearables",
+    "preco": 240319,
+    "moeda": "AOA",
+    "marca": "Nexa",
+    "especificacoes": [
+      "Monitorização de saúde",
+      "Garantia de 12 meses"
+    ],
+    "stock": 85,
+    "disponivel": true,
+    "avaliacao": 4.5
+  }
+]

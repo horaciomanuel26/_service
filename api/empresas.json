@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 1,
+    "nome": "KwanzaTech 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de tecnologia.",
+    "setor": "Tecnologia",
+    "pais": "Angola",
+    "cidade": "Luanda",
+    "ano_fundacao": 2005,
+    "numero_funcionarios": 5,
+    "email": "contacto1@empresa-exemplo.ao",
+    "telefone": "+244 222 100000",
+    "funcionarios": [
+      {
+        "id": 1,
+        "nome": "Ana Silva",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 2,
+        "nome": "Miguel Costa",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 3,
+        "nome": "André Santos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Nova Energia 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de energia.",
+    "setor": "Energia",
+    "pais": "Angola",
+    "cidade": "Benguela",
+    "ano_fundacao": 2007,
+    "numero_funcionarios": 18,
+    "email": "contacto2@empresa-exemplo.ao",
+    "telefone": "+244 222 100137",
+    "funcionarios": [
+      {
+        "id": 4,
+        "nome": "Carlos Manuel",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 5,
+        "nome": "Sofia Mendes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 6,
+        "nome": "Beatriz Ferreira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "AngoLog 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de logística.",
+    "setor": "Logística",
+    "pais": "Angola",
+    "cidade": "Huambo",
+    "ano_fundacao": 2009,
+    "numero_funcionarios": 31,
+    "email": "contacto3@empresa-exemplo.ao",
+    "telefone": "+244 222 100274",
+    "funcionarios": [
+      {
+        "id": 7,
+        "nome": "Marta Costa",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 8,
+        "nome": "Daniel Santos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 9,
+        "nome": "Bruno Domingos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Horizonte Digital 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de consultoria.",
+    "setor": "Consultoria",
+    "pais": "Angola",
+    "cidade": "Lubango",
+    "ano_fundacao": 2011,
+    "numero_funcionarios": 44,
+    "email": "contacto4@empresa-exemplo.ao",
+    "telefone": "+244 222 100411",
+    "funcionarios": [
+      {
+        "id": 10,
+        "nome": "Paulo Mendes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 11,
+        "nome": "Rita Ferreira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 12,
+        "nome": "Carla Pereira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Mundo Verde 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de comércio.",
+    "setor": "Comércio",
+    "pais": "Angola",
+    "cidade": "Cabinda",
+    "ano_fundacao": 2013,
+    "numero_funcionarios": 57,
+    "email": "contacto5@empresa-exemplo.ao",
+    "telefone": "+244 222 100548",
+    "funcionarios": [
+      {
+        "id": 13,
+        "nome": "Joana Santos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 14,
+        "nome": "André Domingos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 15,
+        "nome": "Dário Lopes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Ponto Seguro 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de educação.",
+    "setor": "Educação",
+    "pais": "Angola",
+    "cidade": "Malanje",
+    "ano_fundacao": 2015,
+    "numero_funcionarios": 70,
+    "email": "contacto6@empresa-exemplo.ao",
+    "telefone": "+244 222 100685",
+    "funcionarios": [
+      {
+        "id": 16,
+        "nome": "Miguel Ferreira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 17,
+        "nome": "Beatriz Pereira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 18,
+        "nome": "Elisa Neto",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Atlântico Serviços 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de saúde.",
+    "setor": "Saúde",
+    "pais": "Angola",
+    "cidade": "Namibe",
+    "ano_fundacao": 2017,
+    "numero_funcionarios": 83,
+    "email": "contacto7@empresa-exemplo.ao",
+    "telefone": "+244 222 100822",
+    "funcionarios": [
+      {
+        "id": 19,
+        "nome": "Sofia Domingos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 20,
+        "nome": "Bruno Lopes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 21,
+        "nome": "Fábio Silva",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Luz & Dados 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de construção.",
+    "setor": "Construção",
+    "pais": "Angola",
+    "cidade": "Uíge",
+    "ano_fundacao": 2019,
+    "numero_funcionarios": 96,
+    "email": "contacto8@empresa-exemplo.ao",
+    "telefone": "+244 222 100959",
+    "funcionarios": [
+      {
+        "id": 22,
+        "nome": "Daniel Pereira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 23,
+        "nome": "Carla Neto",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 24,
+        "nome": "Gabriela Manuel",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Crescer Consultoria 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de telecomunicações.",
+    "setor": "Telecomunicações",
+    "pais": "Angola",
+    "cidade": "Soyo",
+    "ano_fundacao": 2021,
+    "numero_funcionarios": 109,
+    "email": "contacto9@empresa-exemplo.ao",
+    "telefone": "+244 222 101096",
+    "funcionarios": [
+      {
+        "id": 25,
+        "nome": "Rita Lopes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 26,
+        "nome": "Dário Silva",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 27,
+        "nome": "Hugo Costa",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Mobi Angola 1",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de turismo.",
+    "setor": "Turismo",
+    "pais": "Angola",
+    "cidade": "Sumbe",
+    "ano_fundacao": 2023,
+    "numero_funcionarios": 122,
+    "email": "contacto10@empresa-exemplo.ao",
+    "telefone": "+244 222 101233",
+    "funcionarios": [
+      {
+        "id": 28,
+        "nome": "André Neto",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 29,
+        "nome": "Elisa Manuel",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 30,
+        "nome": "Inês Mendes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "KwanzaTech 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de tecnologia.",
+    "setor": "Tecnologia",
+    "pais": "Angola",
+    "cidade": "Luanda",
+    "ano_fundacao": 2005,
+    "numero_funcionarios": 135,
+    "email": "contacto11@empresa-exemplo.ao",
+    "telefone": "+244 222 101370",
+    "funcionarios": [
+      {
+        "id": 31,
+        "nome": "Beatriz Silva",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 32,
+        "nome": "Fábio Costa",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 33,
+        "nome": "Jorge Santos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Nova Energia 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de energia.",
+    "setor": "Energia",
+    "pais": "Angola",
+    "cidade": "Benguela",
+    "ano_fundacao": 2007,
+    "numero_funcionarios": 148,
+    "email": "contacto12@empresa-exemplo.ao",
+    "telefone": "+244 222 101507",
+    "funcionarios": [
+      {
+        "id": 34,
+        "nome": "Bruno Manuel",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 35,
+        "nome": "Gabriela Mendes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 36,
+        "nome": "Ana Ferreira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "AngoLog 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de logística.",
+    "setor": "Logística",
+    "pais": "Angola",
+    "cidade": "Huambo",
+    "ano_fundacao": 2009,
+    "numero_funcionarios": 161,
+    "email": "contacto13@empresa-exemplo.ao",
+    "telefone": "+244 222 101644",
+    "funcionarios": [
+      {
+        "id": 37,
+        "nome": "Carla Costa",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 38,
+        "nome": "Hugo Santos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 39,
+        "nome": "Carlos Domingos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Horizonte Digital 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de consultoria.",
+    "setor": "Consultoria",
+    "pais": "Angola",
+    "cidade": "Lubango",
+    "ano_fundacao": 2011,
+    "numero_funcionarios": 174,
+    "email": "contacto14@empresa-exemplo.ao",
+    "telefone": "+244 222 101781",
+    "funcionarios": [
+      {
+        "id": 40,
+        "nome": "Dário Mendes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 41,
+        "nome": "Inês Ferreira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 42,
+        "nome": "Marta Pereira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Mundo Verde 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de comércio.",
+    "setor": "Comércio",
+    "pais": "Angola",
+    "cidade": "Cabinda",
+    "ano_fundacao": 2013,
+    "numero_funcionarios": 187,
+    "email": "contacto15@empresa-exemplo.ao",
+    "telefone": "+244 222 101918",
+    "funcionarios": [
+      {
+        "id": 43,
+        "nome": "Elisa Santos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 44,
+        "nome": "Jorge Domingos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 45,
+        "nome": "Paulo Lopes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Ponto Seguro 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de educação.",
+    "setor": "Educação",
+    "pais": "Angola",
+    "cidade": "Malanje",
+    "ano_fundacao": 2015,
+    "numero_funcionarios": 200,
+    "email": "contacto16@empresa-exemplo.ao",
+    "telefone": "+244 222 102055",
+    "funcionarios": [
+      {
+        "id": 46,
+        "nome": "Fábio Ferreira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 47,
+        "nome": "Ana Pereira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 48,
+        "nome": "Joana Neto",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Atlântico Serviços 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de saúde.",
+    "setor": "Saúde",
+    "pais": "Angola",
+    "cidade": "Namibe",
+    "ano_fundacao": 2017,
+    "numero_funcionarios": 213,
+    "email": "contacto17@empresa-exemplo.ao",
+    "telefone": "+244 222 102192",
+    "funcionarios": [
+      {
+        "id": 49,
+        "nome": "Gabriela Domingos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 50,
+        "nome": "Carlos Lopes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 51,
+        "nome": "Miguel Silva",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Luz & Dados 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de construção.",
+    "setor": "Construção",
+    "pais": "Angola",
+    "cidade": "Uíge",
+    "ano_fundacao": 2019,
+    "numero_funcionarios": 226,
+    "email": "contacto18@empresa-exemplo.ao",
+    "telefone": "+244 222 102329",
+    "funcionarios": [
+      {
+        "id": 52,
+        "nome": "Hugo Pereira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 53,
+        "nome": "Marta Neto",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 54,
+        "nome": "Sofia Manuel",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Crescer Consultoria 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de telecomunicações.",
+    "setor": "Telecomunicações",
+    "pais": "Angola",
+    "cidade": "Soyo",
+    "ano_fundacao": 2021,
+    "numero_funcionarios": 239,
+    "email": "contacto19@empresa-exemplo.ao",
+    "telefone": "+244 222 102466",
+    "funcionarios": [
+      {
+        "id": 55,
+        "nome": "Inês Lopes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 56,
+        "nome": "Paulo Silva",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 57,
+        "nome": "Daniel Costa",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Mobi Angola 2",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de turismo.",
+    "setor": "Turismo",
+    "pais": "Angola",
+    "cidade": "Sumbe",
+    "ano_fundacao": 2023,
+    "numero_funcionarios": 252,
+    "email": "contacto20@empresa-exemplo.ao",
+    "telefone": "+244 222 102603",
+    "funcionarios": [
+      {
+        "id": 58,
+        "nome": "Jorge Neto",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 59,
+        "nome": "Joana Manuel",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 60,
+        "nome": "Rita Mendes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "KwanzaTech 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de tecnologia.",
+    "setor": "Tecnologia",
+    "pais": "Angola",
+    "cidade": "Luanda",
+    "ano_fundacao": 2005,
+    "numero_funcionarios": 265,
+    "email": "contacto21@empresa-exemplo.ao",
+    "telefone": "+244 222 102740",
+    "funcionarios": [
+      {
+        "id": 61,
+        "nome": "Ana Silva",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 62,
+        "nome": "Miguel Costa",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 63,
+        "nome": "André Santos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Nova Energia 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de energia.",
+    "setor": "Energia",
+    "pais": "Angola",
+    "cidade": "Benguela",
+    "ano_fundacao": 2007,
+    "numero_funcionarios": 278,
+    "email": "contacto22@empresa-exemplo.ao",
+    "telefone": "+244 222 102877",
+    "funcionarios": [
+      {
+        "id": 64,
+        "nome": "Carlos Manuel",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 65,
+        "nome": "Sofia Mendes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 66,
+        "nome": "Beatriz Ferreira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "AngoLog 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de logística.",
+    "setor": "Logística",
+    "pais": "Angola",
+    "cidade": "Huambo",
+    "ano_fundacao": 2009,
+    "numero_funcionarios": 291,
+    "email": "contacto23@empresa-exemplo.ao",
+    "telefone": "+244 222 103014",
+    "funcionarios": [
+      {
+        "id": 67,
+        "nome": "Marta Costa",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 68,
+        "nome": "Daniel Santos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 69,
+        "nome": "Bruno Domingos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Horizonte Digital 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de consultoria.",
+    "setor": "Consultoria",
+    "pais": "Angola",
+    "cidade": "Lubango",
+    "ano_fundacao": 2011,
+    "numero_funcionarios": 304,
+    "email": "contacto24@empresa-exemplo.ao",
+    "telefone": "+244 222 103151",
+    "funcionarios": [
+      {
+        "id": 70,
+        "nome": "Paulo Mendes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 71,
+        "nome": "Rita Ferreira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 72,
+        "nome": "Carla Pereira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Mundo Verde 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de comércio.",
+    "setor": "Comércio",
+    "pais": "Angola",
+    "cidade": "Cabinda",
+    "ano_fundacao": 2013,
+    "numero_funcionarios": 317,
+    "email": "contacto25@empresa-exemplo.ao",
+    "telefone": "+244 222 103288",
+    "funcionarios": [
+      {
+        "id": 73,
+        "nome": "Joana Santos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 74,
+        "nome": "André Domingos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 75,
+        "nome": "Dário Lopes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Ponto Seguro 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de educação.",
+    "setor": "Educação",
+    "pais": "Angola",
+    "cidade": "Malanje",
+    "ano_fundacao": 2015,
+    "numero_funcionarios": 330,
+    "email": "contacto26@empresa-exemplo.ao",
+    "telefone": "+244 222 103425",
+    "funcionarios": [
+      {
+        "id": 76,
+        "nome": "Miguel Ferreira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 77,
+        "nome": "Beatriz Pereira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 78,
+        "nome": "Elisa Neto",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Atlântico Serviços 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de saúde.",
+    "setor": "Saúde",
+    "pais": "Angola",
+    "cidade": "Namibe",
+    "ano_fundacao": 2017,
+    "numero_funcionarios": 343,
+    "email": "contacto27@empresa-exemplo.ao",
+    "telefone": "+244 222 103562",
+    "funcionarios": [
+      {
+        "id": 79,
+        "nome": "Sofia Domingos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 80,
+        "nome": "Bruno Lopes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 81,
+        "nome": "Fábio Silva",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Luz & Dados 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de construção.",
+    "setor": "Construção",
+    "pais": "Angola",
+    "cidade": "Uíge",
+    "ano_fundacao": 2019,
+    "numero_funcionarios": 356,
+    "email": "contacto28@empresa-exemplo.ao",
+    "telefone": "+244 222 103699",
+    "funcionarios": [
+      {
+        "id": 82,
+        "nome": "Daniel Pereira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 83,
+        "nome": "Carla Neto",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 84,
+        "nome": "Gabriela Manuel",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Crescer Consultoria 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de telecomunicações.",
+    "setor": "Telecomunicações",
+    "pais": "Angola",
+    "cidade": "Soyo",
+    "ano_fundacao": 2021,
+    "numero_funcionarios": 369,
+    "email": "contacto29@empresa-exemplo.ao",
+    "telefone": "+244 222 103836",
+    "funcionarios": [
+      {
+        "id": 85,
+        "nome": "Rita Lopes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 86,
+        "nome": "Dário Silva",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 87,
+        "nome": "Hugo Costa",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Mobi Angola 3",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de turismo.",
+    "setor": "Turismo",
+    "pais": "Angola",
+    "cidade": "Sumbe",
+    "ano_fundacao": 2023,
+    "numero_funcionarios": 382,
+    "email": "contacto30@empresa-exemplo.ao",
+    "telefone": "+244 222 103973",
+    "funcionarios": [
+      {
+        "id": 88,
+        "nome": "André Neto",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 89,
+        "nome": "Elisa Manuel",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 90,
+        "nome": "Inês Mendes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "KwanzaTech 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de tecnologia.",
+    "setor": "Tecnologia",
+    "pais": "Angola",
+    "cidade": "Luanda",
+    "ano_fundacao": 2005,
+    "numero_funcionarios": 395,
+    "email": "contacto31@empresa-exemplo.ao",
+    "telefone": "+244 222 104110",
+    "funcionarios": [
+      {
+        "id": 91,
+        "nome": "Beatriz Silva",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 92,
+        "nome": "Fábio Costa",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 93,
+        "nome": "Jorge Santos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Nova Energia 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de energia.",
+    "setor": "Energia",
+    "pais": "Angola",
+    "cidade": "Benguela",
+    "ano_fundacao": 2007,
+    "numero_funcionarios": 408,
+    "email": "contacto32@empresa-exemplo.ao",
+    "telefone": "+244 222 104247",
+    "funcionarios": [
+      {
+        "id": 94,
+        "nome": "Bruno Manuel",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 95,
+        "nome": "Gabriela Mendes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 96,
+        "nome": "Ana Ferreira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "AngoLog 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de logística.",
+    "setor": "Logística",
+    "pais": "Angola",
+    "cidade": "Huambo",
+    "ano_fundacao": 2009,
+    "numero_funcionarios": 421,
+    "email": "contacto33@empresa-exemplo.ao",
+    "telefone": "+244 222 104384",
+    "funcionarios": [
+      {
+        "id": 97,
+        "nome": "Carla Costa",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 98,
+        "nome": "Hugo Santos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 99,
+        "nome": "Carlos Domingos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Horizonte Digital 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de consultoria.",
+    "setor": "Consultoria",
+    "pais": "Angola",
+    "cidade": "Lubango",
+    "ano_fundacao": 2011,
+    "numero_funcionarios": 434,
+    "email": "contacto34@empresa-exemplo.ao",
+    "telefone": "+244 222 104521",
+    "funcionarios": [
+      {
+        "id": 100,
+        "nome": "Dário Mendes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 101,
+        "nome": "Inês Ferreira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 102,
+        "nome": "Marta Pereira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Mundo Verde 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de comércio.",
+    "setor": "Comércio",
+    "pais": "Angola",
+    "cidade": "Cabinda",
+    "ano_fundacao": 2013,
+    "numero_funcionarios": 447,
+    "email": "contacto35@empresa-exemplo.ao",
+    "telefone": "+244 222 104658",
+    "funcionarios": [
+      {
+        "id": 103,
+        "nome": "Elisa Santos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 104,
+        "nome": "Jorge Domingos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 105,
+        "nome": "Paulo Lopes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Ponto Seguro 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de educação.",
+    "setor": "Educação",
+    "pais": "Angola",
+    "cidade": "Malanje",
+    "ano_fundacao": 2015,
+    "numero_funcionarios": 460,
+    "email": "contacto36@empresa-exemplo.ao",
+    "telefone": "+244 222 104795",
+    "funcionarios": [
+      {
+        "id": 106,
+        "nome": "Fábio Ferreira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 107,
+        "nome": "Ana Pereira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 108,
+        "nome": "Joana Neto",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Atlântico Serviços 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de saúde.",
+    "setor": "Saúde",
+    "pais": "Angola",
+    "cidade": "Namibe",
+    "ano_fundacao": 2017,
+    "numero_funcionarios": 473,
+    "email": "contacto37@empresa-exemplo.ao",
+    "telefone": "+244 222 104932",
+    "funcionarios": [
+      {
+        "id": 109,
+        "nome": "Gabriela Domingos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 110,
+        "nome": "Carlos Lopes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 111,
+        "nome": "Miguel Silva",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Luz & Dados 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de construção.",
+    "setor": "Construção",
+    "pais": "Angola",
+    "cidade": "Uíge",
+    "ano_fundacao": 2019,
+    "numero_funcionarios": 6,
+    "email": "contacto38@empresa-exemplo.ao",
+    "telefone": "+244 222 105069",
+    "funcionarios": [
+      {
+        "id": 112,
+        "nome": "Hugo Pereira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 113,
+        "nome": "Marta Neto",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 114,
+        "nome": "Sofia Manuel",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Crescer Consultoria 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de telecomunicações.",
+    "setor": "Telecomunicações",
+    "pais": "Angola",
+    "cidade": "Soyo",
+    "ano_fundacao": 2021,
+    "numero_funcionarios": 19,
+    "email": "contacto39@empresa-exemplo.ao",
+    "telefone": "+244 222 105206",
+    "funcionarios": [
+      {
+        "id": 115,
+        "nome": "Inês Lopes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 116,
+        "nome": "Paulo Silva",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 117,
+        "nome": "Daniel Costa",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Mobi Angola 4",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de turismo.",
+    "setor": "Turismo",
+    "pais": "Angola",
+    "cidade": "Sumbe",
+    "ano_fundacao": 2023,
+    "numero_funcionarios": 32,
+    "email": "contacto40@empresa-exemplo.ao",
+    "telefone": "+244 222 105343",
+    "funcionarios": [
+      {
+        "id": 118,
+        "nome": "Jorge Neto",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 119,
+        "nome": "Joana Manuel",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 120,
+        "nome": "Rita Mendes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "KwanzaTech 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de tecnologia.",
+    "setor": "Tecnologia",
+    "pais": "Angola",
+    "cidade": "Luanda",
+    "ano_fundacao": 2005,
+    "numero_funcionarios": 45,
+    "email": "contacto41@empresa-exemplo.ao",
+    "telefone": "+244 222 105480",
+    "funcionarios": [
+      {
+        "id": 121,
+        "nome": "Ana Silva",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 122,
+        "nome": "Miguel Costa",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 123,
+        "nome": "André Santos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Nova Energia 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de energia.",
+    "setor": "Energia",
+    "pais": "Angola",
+    "cidade": "Benguela",
+    "ano_fundacao": 2007,
+    "numero_funcionarios": 58,
+    "email": "contacto42@empresa-exemplo.ao",
+    "telefone": "+244 222 105617",
+    "funcionarios": [
+      {
+        "id": 124,
+        "nome": "Carlos Manuel",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 125,
+        "nome": "Sofia Mendes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 126,
+        "nome": "Beatriz Ferreira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "AngoLog 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de logística.",
+    "setor": "Logística",
+    "pais": "Angola",
+    "cidade": "Huambo",
+    "ano_fundacao": 2009,
+    "numero_funcionarios": 71,
+    "email": "contacto43@empresa-exemplo.ao",
+    "telefone": "+244 222 105754",
+    "funcionarios": [
+      {
+        "id": 127,
+        "nome": "Marta Costa",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 128,
+        "nome": "Daniel Santos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 129,
+        "nome": "Bruno Domingos",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Horizonte Digital 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de consultoria.",
+    "setor": "Consultoria",
+    "pais": "Angola",
+    "cidade": "Lubango",
+    "ano_fundacao": 2011,
+    "numero_funcionarios": 84,
+    "email": "contacto44@empresa-exemplo.ao",
+    "telefone": "+244 222 105891",
+    "funcionarios": [
+      {
+        "id": 130,
+        "nome": "Paulo Mendes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 131,
+        "nome": "Rita Ferreira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 132,
+        "nome": "Carla Pereira",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Mundo Verde 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de comércio.",
+    "setor": "Comércio",
+    "pais": "Angola",
+    "cidade": "Cabinda",
+    "ano_fundacao": 2013,
+    "numero_funcionarios": 97,
+    "email": "contacto45@empresa-exemplo.ao",
+    "telefone": "+244 222 106028",
+    "funcionarios": [
+      {
+        "id": 133,
+        "nome": "Joana Santos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 134,
+        "nome": "André Domingos",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 135,
+        "nome": "Dário Lopes",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Ponto Seguro 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de educação.",
+    "setor": "Educação",
+    "pais": "Angola",
+    "cidade": "Malanje",
+    "ano_fundacao": 2015,
+    "numero_funcionarios": 110,
+    "email": "contacto46@empresa-exemplo.ao",
+    "telefone": "+244 222 106165",
+    "funcionarios": [
+      {
+        "id": 136,
+        "nome": "Miguel Ferreira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 137,
+        "nome": "Beatriz Pereira",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 138,
+        "nome": "Elisa Neto",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Atlântico Serviços 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de saúde.",
+    "setor": "Saúde",
+    "pais": "Angola",
+    "cidade": "Namibe",
+    "ano_fundacao": 2017,
+    "numero_funcionarios": 123,
+    "email": "contacto47@empresa-exemplo.ao",
+    "telefone": "+244 222 106302",
+    "funcionarios": [
+      {
+        "id": 139,
+        "nome": "Sofia Domingos",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 140,
+        "nome": "Bruno Lopes",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 141,
+        "nome": "Fábio Silva",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Luz & Dados 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de construção.",
+    "setor": "Construção",
+    "pais": "Angola",
+    "cidade": "Uíge",
+    "ano_fundacao": 2019,
+    "numero_funcionarios": 136,
+    "email": "contacto48@empresa-exemplo.ao",
+    "telefone": "+244 222 106439",
+    "funcionarios": [
+      {
+        "id": 142,
+        "nome": "Daniel Pereira",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 143,
+        "nome": "Carla Neto",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 144,
+        "nome": "Gabriela Manuel",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Crescer Consultoria 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de telecomunicações.",
+    "setor": "Telecomunicações",
+    "pais": "Angola",
+    "cidade": "Soyo",
+    "ano_fundacao": 2021,
+    "numero_funcionarios": 149,
+    "email": "contacto49@empresa-exemplo.ao",
+    "telefone": "+244 222 106576",
+    "funcionarios": [
+      {
+        "id": 145,
+        "nome": "Rita Lopes",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 146,
+        "nome": "Dário Silva",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 147,
+        "nome": "Hugo Costa",
+        "cargo": "Técnico"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Mobi Angola 5",
+    "descricao": "Empresa fictícia de teste que presta serviços no setor de turismo.",
+    "setor": "Turismo",
+    "pais": "Angola",
+    "cidade": "Sumbe",
+    "ano_fundacao": 2023,
+    "numero_funcionarios": 162,
+    "email": "contacto50@empresa-exemplo.ao",
+    "telefone": "+244 222 106713",
+    "funcionarios": [
+      {
+        "id": 148,
+        "nome": "André Neto",
+        "cargo": "Diretor"
+      },
+      {
+        "id": 149,
+        "nome": "Elisa Manuel",
+        "cargo": "Gestor"
+      },
+      {
+        "id": 150,
+        "nome": "Inês Mendes",
+        "cargo": "Técnico"
+      }
+    ]
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "titulo": "Reinos de Guerra 1",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2016,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 6.0,
+    "multijogador": true,
+    "preco": 2500,
+    "moeda": "AOA"
+  },
+  {
+    "id": 2,
+    "titulo": "Ilha Misteriosa 1",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2017,
+    "classificacao_etaria": "10+",
+    "avaliacao": 6.1,
+    "multijogador": false,
+    "preco": 4810,
+    "moeda": "AOA"
+  },
+  {
+    "id": 3,
+    "titulo": "Corrida Extrema 1",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2018,
+    "classificacao_etaria": "12+",
+    "avaliacao": 6.2,
+    "multijogador": true,
+    "preco": 7120,
+    "moeda": "AOA"
+  },
+  {
+    "id": 4,
+    "titulo": "Lendas do Norte 1",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2019,
+    "classificacao_etaria": "16+",
+    "avaliacao": 6.3,
+    "multijogador": false,
+    "preco": 9430,
+    "moeda": "AOA"
+  },
+  {
+    "id": 5,
+    "titulo": "Construtores do Futuro 1",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2020,
+    "classificacao_etaria": "18+",
+    "avaliacao": 6.4,
+    "multijogador": true,
+    "preco": 11740,
+    "moeda": "AOA"
+  },
+  {
+    "id": 6,
+    "titulo": "Arena de Heróis 1",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2021,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 6.5,
+    "multijogador": false,
+    "preco": 14050,
+    "moeda": "AOA"
+  },
+  {
+    "id": 7,
+    "titulo": "Exploradores 1",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2022,
+    "classificacao_etaria": "10+",
+    "avaliacao": 6.6,
+    "multijogador": true,
+    "preco": 16360,
+    "moeda": "AOA"
+  },
+  {
+    "id": 8,
+    "titulo": "Missão Espacial 1",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2023,
+    "classificacao_etaria": "12+",
+    "avaliacao": 6.7,
+    "multijogador": false,
+    "preco": 18670,
+    "moeda": "AOA"
+  },
+  {
+    "id": 9,
+    "titulo": "Mundo Selvagem 1",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2024,
+    "classificacao_etaria": "16+",
+    "avaliacao": 6.8,
+    "multijogador": true,
+    "preco": 20980,
+    "moeda": "AOA"
+  },
+  {
+    "id": 10,
+    "titulo": "Desafio Tático 1",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2025,
+    "classificacao_etaria": "18+",
+    "avaliacao": 6.9,
+    "multijogador": false,
+    "preco": 23290,
+    "moeda": "AOA"
+  },
+  {
+    "id": 11,
+    "titulo": "Reinos de Guerra 2",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2026,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 7.0,
+    "multijogador": true,
+    "preco": 25600,
+    "moeda": "AOA"
+  },
+  {
+    "id": 12,
+    "titulo": "Ilha Misteriosa 2",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2016,
+    "classificacao_etaria": "10+",
+    "avaliacao": 7.1,
+    "multijogador": false,
+    "preco": 27910,
+    "moeda": "AOA"
+  },
+  {
+    "id": 13,
+    "titulo": "Corrida Extrema 2",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2017,
+    "classificacao_etaria": "12+",
+    "avaliacao": 7.2,
+    "multijogador": true,
+    "preco": 30220,
+    "moeda": "AOA"
+  },
+  {
+    "id": 14,
+    "titulo": "Lendas do Norte 2",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2018,
+    "classificacao_etaria": "16+",
+    "avaliacao": 7.3,
+    "multijogador": false,
+    "preco": 32530,
+    "moeda": "AOA"
+  },
+  {
+    "id": 15,
+    "titulo": "Construtores do Futuro 2",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2019,
+    "classificacao_etaria": "18+",
+    "avaliacao": 7.4,
+    "multijogador": true,
+    "preco": 34840,
+    "moeda": "AOA"
+  },
+  {
+    "id": 16,
+    "titulo": "Arena de Heróis 2",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2020,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 7.5,
+    "multijogador": false,
+    "preco": 37150,
+    "moeda": "AOA"
+  },
+  {
+    "id": 17,
+    "titulo": "Exploradores 2",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2021,
+    "classificacao_etaria": "10+",
+    "avaliacao": 7.6,
+    "multijogador": true,
+    "preco": 39460,
+    "moeda": "AOA"
+  },
+  {
+    "id": 18,
+    "titulo": "Missão Espacial 2",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2022,
+    "classificacao_etaria": "12+",
+    "avaliacao": 7.7,
+    "multijogador": false,
+    "preco": 41770,
+    "moeda": "AOA"
+  },
+  {
+    "id": 19,
+    "titulo": "Mundo Selvagem 2",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2023,
+    "classificacao_etaria": "16+",
+    "avaliacao": 7.8,
+    "multijogador": true,
+    "preco": 44080,
+    "moeda": "AOA"
+  },
+  {
+    "id": 20,
+    "titulo": "Desafio Tático 2",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2024,
+    "classificacao_etaria": "18+",
+    "avaliacao": 7.9,
+    "multijogador": false,
+    "preco": 46390,
+    "moeda": "AOA"
+  },
+  {
+    "id": 21,
+    "titulo": "Reinos de Guerra 3",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2025,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 8.0,
+    "multijogador": true,
+    "preco": 3700,
+    "moeda": "AOA"
+  },
+  {
+    "id": 22,
+    "titulo": "Ilha Misteriosa 3",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2026,
+    "classificacao_etaria": "10+",
+    "avaliacao": 8.1,
+    "multijogador": false,
+    "preco": 6010,
+    "moeda": "AOA"
+  },
+  {
+    "id": 23,
+    "titulo": "Corrida Extrema 3",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2016,
+    "classificacao_etaria": "12+",
+    "avaliacao": 8.2,
+    "multijogador": true,
+    "preco": 8320,
+    "moeda": "AOA"
+  },
+  {
+    "id": 24,
+    "titulo": "Lendas do Norte 3",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2017,
+    "classificacao_etaria": "16+",
+    "avaliacao": 8.3,
+    "multijogador": false,
+    "preco": 10630,
+    "moeda": "AOA"
+  },
+  {
+    "id": 25,
+    "titulo": "Construtores do Futuro 3",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2018,
+    "classificacao_etaria": "18+",
+    "avaliacao": 8.4,
+    "multijogador": true,
+    "preco": 12940,
+    "moeda": "AOA"
+  },
+  {
+    "id": 26,
+    "titulo": "Arena de Heróis 3",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2019,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 8.5,
+    "multijogador": false,
+    "preco": 15250,
+    "moeda": "AOA"
+  },
+  {
+    "id": 27,
+    "titulo": "Exploradores 3",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2020,
+    "classificacao_etaria": "10+",
+    "avaliacao": 8.6,
+    "multijogador": true,
+    "preco": 17560,
+    "moeda": "AOA"
+  },
+  {
+    "id": 28,
+    "titulo": "Missão Espacial 3",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2021,
+    "classificacao_etaria": "12+",
+    "avaliacao": 8.7,
+    "multijogador": false,
+    "preco": 19870,
+    "moeda": "AOA"
+  },
+  {
+    "id": 29,
+    "titulo": "Mundo Selvagem 3",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2022,
+    "classificacao_etaria": "16+",
+    "avaliacao": 8.8,
+    "multijogador": true,
+    "preco": 22180,
+    "moeda": "AOA"
+  },
+  {
+    "id": 30,
+    "titulo": "Desafio Tático 3",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2023,
+    "classificacao_etaria": "18+",
+    "avaliacao": 8.9,
+    "multijogador": false,
+    "preco": 24490,
+    "moeda": "AOA"
+  },
+  {
+    "id": 31,
+    "titulo": "Reinos de Guerra 4",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2024,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 9.0,
+    "multijogador": true,
+    "preco": 26800,
+    "moeda": "AOA"
+  },
+  {
+    "id": 32,
+    "titulo": "Ilha Misteriosa 4",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2025,
+    "classificacao_etaria": "10+",
+    "avaliacao": 9.1,
+    "multijogador": false,
+    "preco": 29110,
+    "moeda": "AOA"
+  },
+  {
+    "id": 33,
+    "titulo": "Corrida Extrema 4",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2026,
+    "classificacao_etaria": "12+",
+    "avaliacao": 9.2,
+    "multijogador": true,
+    "preco": 31420,
+    "moeda": "AOA"
+  },
+  {
+    "id": 34,
+    "titulo": "Lendas do Norte 4",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2016,
+    "classificacao_etaria": "16+",
+    "avaliacao": 9.3,
+    "multijogador": false,
+    "preco": 33730,
+    "moeda": "AOA"
+  },
+  {
+    "id": 35,
+    "titulo": "Construtores do Futuro 4",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2017,
+    "classificacao_etaria": "18+",
+    "avaliacao": 9.4,
+    "multijogador": true,
+    "preco": 36040,
+    "moeda": "AOA"
+  },
+  {
+    "id": 36,
+    "titulo": "Arena de Heróis 4",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2018,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 9.5,
+    "multijogador": false,
+    "preco": 38350,
+    "moeda": "AOA"
+  },
+  {
+    "id": 37,
+    "titulo": "Exploradores 4",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2019,
+    "classificacao_etaria": "10+",
+    "avaliacao": 9.6,
+    "multijogador": true,
+    "preco": 40660,
+    "moeda": "AOA"
+  },
+  {
+    "id": 38,
+    "titulo": "Missão Espacial 4",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2020,
+    "classificacao_etaria": "12+",
+    "avaliacao": 9.7,
+    "multijogador": false,
+    "preco": 42970,
+    "moeda": "AOA"
+  },
+  {
+    "id": 39,
+    "titulo": "Mundo Selvagem 4",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2021,
+    "classificacao_etaria": "16+",
+    "avaliacao": 9.8,
+    "multijogador": true,
+    "preco": 45280,
+    "moeda": "AOA"
+  },
+  {
+    "id": 40,
+    "titulo": "Desafio Tático 4",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2022,
+    "classificacao_etaria": "18+",
+    "avaliacao": 9.9,
+    "multijogador": false,
+    "preco": 2590,
+    "moeda": "AOA"
+  },
+  {
+    "id": 41,
+    "titulo": "Reinos de Guerra 5",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2023,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 6.0,
+    "multijogador": true,
+    "preco": 4900,
+    "moeda": "AOA"
+  },
+  {
+    "id": 42,
+    "titulo": "Ilha Misteriosa 5",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2024,
+    "classificacao_etaria": "10+",
+    "avaliacao": 6.1,
+    "multijogador": false,
+    "preco": 7210,
+    "moeda": "AOA"
+  },
+  {
+    "id": 43,
+    "titulo": "Corrida Extrema 5",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2025,
+    "classificacao_etaria": "12+",
+    "avaliacao": 6.2,
+    "multijogador": true,
+    "preco": 9520,
+    "moeda": "AOA"
+  },
+  {
+    "id": 44,
+    "titulo": "Lendas do Norte 5",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2026,
+    "classificacao_etaria": "16+",
+    "avaliacao": 6.3,
+    "multijogador": false,
+    "preco": 11830,
+    "moeda": "AOA"
+  },
+  {
+    "id": 45,
+    "titulo": "Construtores do Futuro 5",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "Xbox Series X",
+      "Android"
+    ],
+    "ano_lancamento": 2016,
+    "classificacao_etaria": "18+",
+    "avaliacao": 6.4,
+    "multijogador": true,
+    "preco": 14140,
+    "moeda": "AOA"
+  },
+  {
+    "id": 46,
+    "titulo": "Arena de Heróis 5",
+    "descricao": "Jogo de estratégia com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Estratégia",
+    "plataformas": [
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "ano_lancamento": 2017,
+    "classificacao_etaria": "Livre",
+    "avaliacao": 6.5,
+    "multijogador": false,
+    "preco": 16450,
+    "moeda": "AOA"
+  },
+  {
+    "id": 47,
+    "titulo": "Exploradores 5",
+    "descricao": "Jogo de aventura com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Aventura",
+    "plataformas": [
+      "Android",
+      "PC"
+    ],
+    "ano_lancamento": 2018,
+    "classificacao_etaria": "10+",
+    "avaliacao": 6.6,
+    "multijogador": true,
+    "preco": 18760,
+    "moeda": "AOA"
+  },
+  {
+    "id": 48,
+    "titulo": "Missão Espacial 5",
+    "descricao": "Jogo de corrida com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Corrida",
+    "plataformas": [
+      "iOS",
+      "PlayStation 5"
+    ],
+    "ano_lancamento": 2019,
+    "classificacao_etaria": "12+",
+    "avaliacao": 6.7,
+    "multijogador": false,
+    "preco": 21070,
+    "moeda": "AOA"
+  },
+  {
+    "id": 49,
+    "titulo": "Mundo Selvagem 5",
+    "descricao": "Jogo de ação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Ação",
+    "plataformas": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "ano_lancamento": 2020,
+    "classificacao_etaria": "16+",
+    "avaliacao": 6.8,
+    "multijogador": true,
+    "preco": 23380,
+    "moeda": "AOA"
+  },
+  {
+    "id": 50,
+    "titulo": "Desafio Tático 5",
+    "descricao": "Jogo de simulação com desafios, progressão e objetivos para diferentes estilos de jogador.",
+    "genero": "Simulação",
+    "plataformas": [
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "ano_lancamento": 2021,
+    "classificacao_etaria": "18+",
+    "avaliacao": 6.9,
+    "multijogador": false,
+    "preco": 25690,
+    "moeda": "AOA"
+  }
+]

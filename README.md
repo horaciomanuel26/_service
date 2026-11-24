@@ -1,137 +1,130 @@
-# 📡 _service — API JSON para Estudo e Testes
+# _service — API de Teste
 
-API pública em JSON, hospedada no GitHub, criada para **testar requisições** e **estudar front-ends com consumo de API**. Ideal para quem está a aprender `fetch`, Axios, React, Vue, Laravel (HTTP Client) ou qualquer outra tecnologia que consuma dados via HTTP.
+Uma API pública e gratuita que disponibiliza conjuntos de dados fictícios em formato JSON para testes e desenvolvimento de aplicações.
 
-> ⚠️ **Aviso importante:** esta API é **somente leitura**. Como os dados estão hospedados no GitHub, só é possível fazer requisições **GET**. Métodos como `POST`, `PUT`, `PATCH` e `DELETE` **não funcionam**.
+## Sobre o projecto
 
----
+O `_service` foi criado para facilitar os testes de aplicações web e mobile, permitindo aos programadores consumir dados externos sem precisar de desenvolver um backend ou configurar uma base de dados.
 
-## 📦 Conteúdo disponível
+Os dados são disponibilizados através de ficheiros JSON hospedados no GitHub Pages.
 
-Atualmente a API contém **8 ficheiros JSON**, cada um com dados diferentes. Um deles inclui **imagens**, e os restantes trazem apenas dados em texto.
+**Esta API é somente de leitura: permite exclusivamente requisições GET.**
 
-Cada ficheiro pode ser acedido separadamente, através do seu próprio link.
+## Base URL
 
----
-
-## 🚀 Como usar
-
-Formato base do link (ficheiros em modo *raw*):
-
-```
-https://raw.githubusercontent.com/horaciomanuel26/_service/main/[caminho]/[ficheiro].json
+```text
+https://horaciomanuel26.github.io/_service/api
 ```
 
-Exemplo real:
+## Endpoints disponíveis
 
-```
-https://raw.githubusercontent.com/horaciomanuel26/_service/main/noticias.json
-```
+| Endpoint | Descrição | Registos |
+|---|---|---:|
+| `/noticias.json` | Notícias de tecnologia | 50 |
+| `/produtos.json` | Produtos, preços e categorias | 50 |
+| `/usuarios.json` | Utilizadores e perfis | 50 |
+| `/musicas.json` | Artistas, álbuns e músicas | 50 |
+| `/filmes.json` | Filmes, géneros e avaliações | 50 |
+| `/receitas.json` | Receitas e ingredientes | 50 |
+| `/cursos.json` | Cursos, módulos e duração | 50 |
+| `/viagens.json` | Destinos e pontos turísticos | 50 |
+| `/empresas.json` | Empresas e funcionários | 50 |
+| `/jogos.json` | Jogos, plataformas e classificações | 50 |
 
-### Exemplo com `fetch` (JavaScript)
+## Método HTTP
+
+O único método disponibilizado para consulta é:
+
+- `GET` — obter os dados.
+
+Não são suportadas operações `POST`, `PUT`, `PATCH` ou `DELETE`.
+
+## Como utilizar
+
+### JavaScript — Fetch
 
 ```javascript
-fetch("https://raw.githubusercontent.com/horaciomanuel26/_service/main/noticias.json")
-  .then((resposta) => resposta.json())
-  .then((dados) => console.log(dados))
-  .catch((erro) => console.error("Erro:", erro));
-```
+const API_URL = "https://horaciomanuel26.github.io/_service/api";
 
-### Exemplo com `async/await`
+async function buscarNoticias() {
+    try {
+        const resposta = await fetch(`${API_URL}/noticias.json`);
 
-```javascript
-async function carregarDados() {
-  try {
-    const resposta = await fetch(
-      "https://raw.githubusercontent.com/horaciomanuel26/_service/main/noticias.json"
-    );
-    const dados = await resposta.json();
-    console.log(dados);
-  } catch (erro) {
-    console.error("Erro:", erro);
-  }
+        if (!resposta.ok) {
+            throw new Error("Erro ao consultar a API.");
+        }
+
+        const noticias = await resposta.json();
+
+        console.log(noticias);
+    } catch (erro) {
+        console.error(erro);
+    }
 }
 
-carregarDados();
+buscarNoticias();
 ```
 
-### Exemplo com cURL
-
-```bash
-curl https://raw.githubusercontent.com/horaciomanuel26/_service/main/noticias.json
-```
-
----
-
-## 🖼️ Ficheiro com imagens
-
-Um dos ficheiros inclui links de imagens, que ficam guardadas na pasta `imagens/` do repositório. Exemplo de uso:
+### React Native — Fetch
 
 ```javascript
-const resposta = await fetch(
-  "https://raw.githubusercontent.com/horaciomanuel26/_service/main/[ficheiro-com-imagens].json"
-);
-const itens = await resposta.json();
+const API_URL = "https://horaciomanuel26.github.io/_service/api";
 
-itens.forEach((item) => {
-  const img = document.createElement("img");
-  img.src = item.imagem; // ajusta ao nome do campo
-  document.body.appendChild(img);
-});
+async function buscarProdutos() {
+    try {
+        const resposta = await fetch(`${API_URL}/produtos.json`);
+
+        const produtos = await resposta.json();
+
+        console.log(produtos);
+    } catch (erro) {
+        console.error("Erro:", erro);
+    }
+}
 ```
 
----
+## Estrutura do projecto
 
-## 🎯 Para que serve
+```text
+_service/
+│
+├── api/
+│   ├── noticias.json
+│   ├── produtos.json
+│   ├── usuarios.json
+│   ├── musicas.json
+│   ├── filmes.json
+│   ├── receitas.json
+│   ├── cursos.json
+│   ├── viagens.json
+│   ├── empresas.json
+│   └── jogos.json
+│
+└── README.md
+```
 
-- Praticar consumo de API em projetos de front-end
-- Testar listagens, filtros, pesquisa e paginação no cliente
-- Treinar o tratamento de erros e estados de *loading*
-- Estudar a estrutura de dados JSON
-- Criar demos e protótipos sem precisar de back-end
+## Características
 
----
+- 10 conjuntos de dados.
+- 50 registos por ficheiro.
+- 500 registos no total.
+- Dados em formato JSON.
+- Acesso público.
+- Sem autenticação.
+- Somente leitura (GET).
+- Compatível com aplicações web e mobile.
 
-## ⚙️ Limitações
+## Limitações
 
-- ✅ Apenas requisições **GET**
-- ❌ Não é possível criar, editar ou apagar dados
-- ❌ Não há autenticação, filtros ou paginação no servidor (tudo é feito no cliente)
-- ⏱️ O GitHub pode aplicar limites de requisições e *cache* aos ficheiros raw
+Por ser uma API baseada em ficheiros estáticos:
 
----
+- Não possui base de dados.
+- Não permite criar, editar ou eliminar registos através de requisições HTTP.
+- Os dados só são actualizados quando os ficheiros são modificados no repositório.
+- A disponibilidade depende da hospedagem do GitHub Pages.
 
-## 🤝 Como contribuir
+## Finalidade
 
-Contribuições são bem-vindas! Podes ajudar a:
+Este projecto destina-se a fins educativos, testes e desenvolvimento de aplicações que necessitam de consumir dados através de requisições HTTP.
 
-- Adicionar novos ficheiros JSON com dados diferentes
-- Melhorar ou corrigir os dados existentes
-- Melhorar a documentação
-
-**Passos:**
-
-1. Faz um **fork** do repositório
-2. Cria uma branch: `git checkout -b minha-contribuicao`
-3. Faz as alterações e *commit*: `git commit -m "Adiciona novo JSON de [tema]"`
-4. Envia a branch: `git push origin minha-contribuicao`
-5. Abre um **Pull Request**
-
----
-
-## 👤 Autor
-
-**Horácio Manuel** — *manuelldesigner*
-
-- GitHub: [@horaciomanuel26](https://github.com/horaciomanuel26)
-- Instagram: [@manuelldesigner](https://instagram.com/manuelldesigner)
-
----
-
-## 📄 Licença
-
-Este projeto é de uso livre para estudo e testes.
-
----
-
-⭐ Se este projeto te ajudou, deixa uma estrela no repositório!
+**Nota:** Todos os dados disponibilizados são fictícios e devem ser utilizados exclusivamente para testes e demonstrações.

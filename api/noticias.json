@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "titulo": "Aplicações empresariais ganham espaço em novos mercados",
+    "descricao": "Ferramentas de inteligência artificial estão a transformar processos de trabalho e criação. O tema em destaque são aplicações empresariais, que ganham espaço em novos mercados.",
+    "categoria": "Inteligência Artificial",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-01-05",
+    "destaque": true,
+    "visualizacoes": 125
+  },
+  {
+    "id": 2,
+    "titulo": "Aplicações empresariais ganham espaço em novos mercados",
+    "descricao": "Especialistas recomendam práticas de segurança digital para proteger dados e contas. O tema em destaque são aplicações empresariais, que ganham espaço em novos mercados.",
+    "categoria": "Cibersegurança",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-01-08",
+    "destaque": false,
+    "visualizacoes": 442
+  },
+  {
+    "id": 3,
+    "titulo": "Serviços digitais ganham espaço em novos mercados",
+    "descricao": "Fabricantes apresentam equipamentos com melhor desempenho e maior eficiência energética. O tema em destaque são serviços digitais, que ganham espaço em novos mercados.",
+    "categoria": "Hardware",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-01-11",
+    "destaque": false,
+    "visualizacoes": 759
+  },
+  {
+    "id": 4,
+    "titulo": "Serviços digitais recebem investimentos para acelerar a inovação",
+    "descricao": "Novas ferramentas facilitam a criação, manutenção e distribuição de aplicações. O tema em destaque são serviços digitais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Desenvolvimento",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-01-14",
+    "destaque": false,
+    "visualizacoes": 1076
+  },
+  {
+    "id": 5,
+    "titulo": "Equipamentos pessoais recebem investimentos para acelerar a inovação",
+    "descricao": "A expansão das redes de comunicação melhora o acesso a serviços digitais. O tema em destaque são equipamentos pessoais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Telecomunicações",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-01-17",
+    "destaque": false,
+    "visualizacoes": 1393
+  },
+  {
+    "id": 6,
+    "titulo": "Equipamentos pessoais recebem investimentos para acelerar a inovação",
+    "descricao": "Investigadores apresentam resultados que podem abrir novas possibilidades de investigação. O tema em destaque são equipamentos pessoais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Ciência",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-01-20",
+    "destaque": false,
+    "visualizacoes": 1710
+  },
+  {
+    "id": 7,
+    "titulo": "Plataformas online passam a integrar funcionalidades mais avançadas",
+    "descricao": "Projetos de energia renovável procuram responder à crescente procura por eletricidade. O tema em destaque são plataformas online, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Energia",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-01-23",
+    "destaque": false,
+    "visualizacoes": 2027
+  },
+  {
+    "id": 8,
+    "titulo": "Plataformas online passam a integrar funcionalidades mais avançadas",
+    "descricao": "Empresas emergentes procuram soluções práticas para desafios de diferentes setores. O tema em destaque são plataformas online, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Startups",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-01-26",
+    "destaque": true,
+    "visualizacoes": 2344
+  },
+  {
+    "id": 9,
+    "titulo": "Infraestruturas tecnológicas passam a integrar funcionalidades mais avançadas",
+    "descricao": "Atualizações de software introduzem melhorias de produtividade, acessibilidade e privacidade. O tema em destaque são infraestruturas tecnológicas, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Software",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-01-29",
+    "destaque": false,
+    "visualizacoes": 2661
+  },
+  {
+    "id": 10,
+    "titulo": "Infraestruturas tecnológicas levantam questões sobre segurança e privacidade",
+    "descricao": "Novas aplicações de robótica ajudam a automatizar tarefas em ambientes industriais. O tema em destaque são infraestruturas tecnológicas, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Robótica",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-02-01",
+    "destaque": false,
+    "visualizacoes": 2978
+  },
+  {
+    "id": 11,
+    "titulo": "Aplicações empresariais levantam questões sobre segurança e privacidade",
+    "descricao": "Ferramentas de inteligência artificial estão a transformar processos de trabalho e criação. O tema em destaque são aplicações empresariais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Inteligência Artificial",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-02-04",
+    "destaque": false,
+    "visualizacoes": 3295
+  },
+  {
+    "id": 12,
+    "titulo": "Aplicações empresariais levantam questões sobre segurança e privacidade",
+    "descricao": "Especialistas recomendam práticas de segurança digital para proteger dados e contas. O tema em destaque são aplicações empresariais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Cibersegurança",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-02-07",
+    "destaque": false,
+    "visualizacoes": 3612
+  },
+  {
+    "id": 13,
+    "titulo": "Serviços digitais abrem oportunidades para pequenas empresas",
+    "descricao": "Fabricantes apresentam equipamentos com melhor desempenho e maior eficiência energética. O tema em destaque são serviços digitais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Hardware",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-02-10",
+    "destaque": false,
+    "visualizacoes": 3929
+  },
+  {
+    "id": 14,
+    "titulo": "Serviços digitais abrem oportunidades para pequenas empresas",
+    "descricao": "Novas ferramentas facilitam a criação, manutenção e distribuição de aplicações. O tema em destaque são serviços digitais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Desenvolvimento",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-02-13",
+    "destaque": false,
+    "visualizacoes": 4246
+  },
+  {
+    "id": 15,
+    "titulo": "Equipamentos pessoais abrem oportunidades para pequenas empresas",
+    "descricao": "A expansão das redes de comunicação melhora o acesso a serviços digitais. O tema em destaque são equipamentos pessoais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Telecomunicações",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-02-16",
+    "destaque": true,
+    "visualizacoes": 4563
+  },
+  {
+    "id": 16,
+    "titulo": "Equipamentos pessoais ganham espaço em novos mercados",
+    "descricao": "Investigadores apresentam resultados que podem abrir novas possibilidades de investigação. O tema em destaque são equipamentos pessoais, que ganham espaço em novos mercados.",
+    "categoria": "Ciência",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-02-19",
+    "destaque": false,
+    "visualizacoes": 4880
+  },
+  {
+    "id": 17,
+    "titulo": "Plataformas online ganham espaço em novos mercados",
+    "descricao": "Projetos de energia renovável procuram responder à crescente procura por eletricidade. O tema em destaque são plataformas online, que ganham espaço em novos mercados.",
+    "categoria": "Energia",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-02-22",
+    "destaque": false,
+    "visualizacoes": 5197
+  },
+  {
+    "id": 18,
+    "titulo": "Plataformas online ganham espaço em novos mercados",
+    "descricao": "Empresas emergentes procuram soluções práticas para desafios de diferentes setores. O tema em destaque são plataformas online, que ganham espaço em novos mercados.",
+    "categoria": "Startups",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-02-25",
+    "destaque": false,
+    "visualizacoes": 5514
+  },
+  {
+    "id": 19,
+    "titulo": "Infraestruturas tecnológicas recebem investimentos para acelerar a inovação",
+    "descricao": "Atualizações de software introduzem melhorias de produtividade, acessibilidade e privacidade. O tema em destaque são infraestruturas tecnológicas, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Software",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-02-28",
+    "destaque": false,
+    "visualizacoes": 5831
+  },
+  {
+    "id": 20,
+    "titulo": "Infraestruturas tecnológicas recebem investimentos para acelerar a inovação",
+    "descricao": "Novas aplicações de robótica ajudam a automatizar tarefas em ambientes industriais. O tema em destaque são infraestruturas tecnológicas, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Robótica",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-03-03",
+    "destaque": false,
+    "visualizacoes": 6148
+  },
+  {
+    "id": 21,
+    "titulo": "Aplicações empresariais recebem investimentos para acelerar a inovação",
+    "descricao": "Ferramentas de inteligência artificial estão a transformar processos de trabalho e criação. O tema em destaque são aplicações empresariais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Inteligência Artificial",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-03-06",
+    "destaque": false,
+    "visualizacoes": 6465
+  },
+  {
+    "id": 22,
+    "titulo": "Aplicações empresariais passam a integrar funcionalidades mais avançadas",
+    "descricao": "Especialistas recomendam práticas de segurança digital para proteger dados e contas. O tema em destaque são aplicações empresariais, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Cibersegurança",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-03-09",
+    "destaque": true,
+    "visualizacoes": 6782
+  },
+  {
+    "id": 23,
+    "titulo": "Serviços digitais passam a integrar funcionalidades mais avançadas",
+    "descricao": "Fabricantes apresentam equipamentos com melhor desempenho e maior eficiência energética. O tema em destaque são serviços digitais, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Hardware",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-03-12",
+    "destaque": false,
+    "visualizacoes": 7099
+  },
+  {
+    "id": 24,
+    "titulo": "Serviços digitais passam a integrar funcionalidades mais avançadas",
+    "descricao": "Novas ferramentas facilitam a criação, manutenção e distribuição de aplicações. O tema em destaque são serviços digitais, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Desenvolvimento",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-03-15",
+    "destaque": false,
+    "visualizacoes": 7416
+  },
+  {
+    "id": 25,
+    "titulo": "Equipamentos pessoais levantam questões sobre segurança e privacidade",
+    "descricao": "A expansão das redes de comunicação melhora o acesso a serviços digitais. O tema em destaque são equipamentos pessoais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Telecomunicações",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-03-18",
+    "destaque": false,
+    "visualizacoes": 7733
+  },
+  {
+    "id": 26,
+    "titulo": "Equipamentos pessoais levantam questões sobre segurança e privacidade",
+    "descricao": "Investigadores apresentam resultados que podem abrir novas possibilidades de investigação. O tema em destaque são equipamentos pessoais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Ciência",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-03-21",
+    "destaque": false,
+    "visualizacoes": 8050
+  },
+  {
+    "id": 27,
+    "titulo": "Plataformas online levantam questões sobre segurança e privacidade",
+    "descricao": "Projetos de energia renovável procuram responder à crescente procura por eletricidade. O tema em destaque são plataformas online, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Energia",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-03-24",
+    "destaque": false,
+    "visualizacoes": 8367
+  },
+  {
+    "id": 28,
+    "titulo": "Plataformas online abrem oportunidades para pequenas empresas",
+    "descricao": "Empresas emergentes procuram soluções práticas para desafios de diferentes setores. O tema em destaque são plataformas online, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Startups",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-03-27",
+    "destaque": false,
+    "visualizacoes": 8684
+  },
+  {
+    "id": 29,
+    "titulo": "Infraestruturas tecnológicas abrem oportunidades para pequenas empresas",
+    "descricao": "Atualizações de software introduzem melhorias de produtividade, acessibilidade e privacidade. O tema em destaque são infraestruturas tecnológicas, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Software",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-03-30",
+    "destaque": true,
+    "visualizacoes": 9001
+  },
+  {
+    "id": 30,
+    "titulo": "Infraestruturas tecnológicas abrem oportunidades para pequenas empresas",
+    "descricao": "Novas aplicações de robótica ajudam a automatizar tarefas em ambientes industriais. O tema em destaque são infraestruturas tecnológicas, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Robótica",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-04-02",
+    "destaque": false,
+    "visualizacoes": 9318
+  },
+  {
+    "id": 31,
+    "titulo": "Aplicações empresariais ganham espaço em novos mercados",
+    "descricao": "Ferramentas de inteligência artificial estão a transformar processos de trabalho e criação. O tema em destaque são aplicações empresariais, que ganham espaço em novos mercados.",
+    "categoria": "Inteligência Artificial",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-04-05",
+    "destaque": false,
+    "visualizacoes": 9635
+  },
+  {
+    "id": 32,
+    "titulo": "Aplicações empresariais ganham espaço em novos mercados",
+    "descricao": "Especialistas recomendam práticas de segurança digital para proteger dados e contas. O tema em destaque são aplicações empresariais, que ganham espaço em novos mercados.",
+    "categoria": "Cibersegurança",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-04-08",
+    "destaque": false,
+    "visualizacoes": 9952
+  },
+  {
+    "id": 33,
+    "titulo": "Serviços digitais ganham espaço em novos mercados",
+    "descricao": "Fabricantes apresentam equipamentos com melhor desempenho e maior eficiência energética. O tema em destaque são serviços digitais, que ganham espaço em novos mercados.",
+    "categoria": "Hardware",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-04-11",
+    "destaque": false,
+    "visualizacoes": 10269
+  },
+  {
+    "id": 34,
+    "titulo": "Serviços digitais recebem investimentos para acelerar a inovação",
+    "descricao": "Novas ferramentas facilitam a criação, manutenção e distribuição de aplicações. O tema em destaque são serviços digitais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Desenvolvimento",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-04-14",
+    "destaque": false,
+    "visualizacoes": 10586
+  },
+  {
+    "id": 35,
+    "titulo": "Equipamentos pessoais recebem investimentos para acelerar a inovação",
+    "descricao": "A expansão das redes de comunicação melhora o acesso a serviços digitais. O tema em destaque são equipamentos pessoais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Telecomunicações",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-04-17",
+    "destaque": false,
+    "visualizacoes": 10903
+  },
+  {
+    "id": 36,
+    "titulo": "Equipamentos pessoais recebem investimentos para acelerar a inovação",
+    "descricao": "Investigadores apresentam resultados que podem abrir novas possibilidades de investigação. O tema em destaque são equipamentos pessoais, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Ciência",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-04-20",
+    "destaque": true,
+    "visualizacoes": 11220
+  },
+  {
+    "id": 37,
+    "titulo": "Plataformas online passam a integrar funcionalidades mais avançadas",
+    "descricao": "Projetos de energia renovável procuram responder à crescente procura por eletricidade. O tema em destaque são plataformas online, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Energia",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-04-23",
+    "destaque": false,
+    "visualizacoes": 11537
+  },
+  {
+    "id": 38,
+    "titulo": "Plataformas online passam a integrar funcionalidades mais avançadas",
+    "descricao": "Empresas emergentes procuram soluções práticas para desafios de diferentes setores. O tema em destaque são plataformas online, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Startups",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-04-26",
+    "destaque": false,
+    "visualizacoes": 11854
+  },
+  {
+    "id": 39,
+    "titulo": "Infraestruturas tecnológicas passam a integrar funcionalidades mais avançadas",
+    "descricao": "Atualizações de software introduzem melhorias de produtividade, acessibilidade e privacidade. O tema em destaque são infraestruturas tecnológicas, que passam a integrar funcionalidades mais avançadas.",
+    "categoria": "Software",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-04-29",
+    "destaque": false,
+    "visualizacoes": 12171
+  },
+  {
+    "id": 40,
+    "titulo": "Infraestruturas tecnológicas levantam questões sobre segurança e privacidade",
+    "descricao": "Novas aplicações de robótica ajudam a automatizar tarefas em ambientes industriais. O tema em destaque são infraestruturas tecnológicas, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Robótica",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-05-02",
+    "destaque": false,
+    "visualizacoes": 12488
+  },
+  {
+    "id": 41,
+    "titulo": "Aplicações empresariais levantam questões sobre segurança e privacidade",
+    "descricao": "Ferramentas de inteligência artificial estão a transformar processos de trabalho e criação. O tema em destaque são aplicações empresariais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Inteligência Artificial",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-05-05",
+    "destaque": false,
+    "visualizacoes": 12805
+  },
+  {
+    "id": 42,
+    "titulo": "Aplicações empresariais levantam questões sobre segurança e privacidade",
+    "descricao": "Especialistas recomendam práticas de segurança digital para proteger dados e contas. O tema em destaque são aplicações empresariais, que levantam questões sobre segurança e privacidade.",
+    "categoria": "Cibersegurança",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-05-08",
+    "destaque": false,
+    "visualizacoes": 13122
+  },
+  {
+    "id": 43,
+    "titulo": "Serviços digitais abrem oportunidades para pequenas empresas",
+    "descricao": "Fabricantes apresentam equipamentos com melhor desempenho e maior eficiência energética. O tema em destaque são serviços digitais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Hardware",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-05-11",
+    "destaque": true,
+    "visualizacoes": 13439
+  },
+  {
+    "id": 44,
+    "titulo": "Serviços digitais abrem oportunidades para pequenas empresas",
+    "descricao": "Novas ferramentas facilitam a criação, manutenção e distribuição de aplicações. O tema em destaque são serviços digitais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Desenvolvimento",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-05-14",
+    "destaque": false,
+    "visualizacoes": 13756
+  },
+  {
+    "id": 45,
+    "titulo": "Equipamentos pessoais abrem oportunidades para pequenas empresas",
+    "descricao": "A expansão das redes de comunicação melhora o acesso a serviços digitais. O tema em destaque são equipamentos pessoais, que abrem oportunidades para pequenas empresas.",
+    "categoria": "Telecomunicações",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-05-17",
+    "destaque": false,
+    "visualizacoes": 14073
+  },
+  {
+    "id": 46,
+    "titulo": "Equipamentos pessoais ganham espaço em novos mercados",
+    "descricao": "Investigadores apresentam resultados que podem abrir novas possibilidades de investigação. O tema em destaque são equipamentos pessoais, que ganham espaço em novos mercados.",
+    "categoria": "Ciência",
+    "autor": "Redação Tech",
+    "data_publicacao": "2026-05-20",
+    "destaque": false,
+    "visualizacoes": 14390
+  },
+  {
+    "id": 47,
+    "titulo": "Plataformas online ganham espaço em novos mercados",
+    "descricao": "Projetos de energia renovável procuram responder à crescente procura por eletricidade. O tema em destaque são plataformas online, que ganham espaço em novos mercados.",
+    "categoria": "Energia",
+    "autor": "Marta Silva",
+    "data_publicacao": "2026-05-23",
+    "destaque": false,
+    "visualizacoes": 14707
+  },
+  {
+    "id": 48,
+    "titulo": "Plataformas online ganham espaço em novos mercados",
+    "descricao": "Empresas emergentes procuram soluções práticas para desafios de diferentes setores. O tema em destaque são plataformas online, que ganham espaço em novos mercados.",
+    "categoria": "Startups",
+    "autor": "Paulo Mendes",
+    "data_publicacao": "2026-05-26",
+    "destaque": false,
+    "visualizacoes": 15024
+  },
+  {
+    "id": 49,
+    "titulo": "Infraestruturas tecnológicas recebem investimentos para acelerar a inovação",
+    "descricao": "Atualizações de software introduzem melhorias de produtividade, acessibilidade e privacidade. O tema em destaque são infraestruturas tecnológicas, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Software",
+    "autor": "Equipa Digital",
+    "data_publicacao": "2026-05-29",
+    "destaque": false,
+    "visualizacoes": 15341
+  },
+  {
+    "id": 50,
+    "titulo": "Infraestruturas tecnológicas recebem investimentos para acelerar a inovação",
+    "descricao": "Novas aplicações de robótica ajudam a automatizar tarefas em ambientes industriais. O tema em destaque são infraestruturas tecnológicas, que recebem investimentos para acelerar a inovação.",
+    "categoria": "Robótica",
+    "autor": "Joana Costa",
+    "data_publicacao": "2026-06-01",
+    "destaque": true,
+    "visualizacoes": 15658
+  }
+]

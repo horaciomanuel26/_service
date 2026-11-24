@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 1,
+    "nome": "Calulu de peixe — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "beringela",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 10,
+    "tempo_cozedura_minutos": 15,
+    "dificuldade": "Fácil",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 2,
+    "nome": "Muamba de galinha — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "galinha",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "abóbora",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 13,
+    "tempo_cozedura_minutos": 20,
+    "dificuldade": "Média",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 3,
+    "nome": "Funje com carne — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "farinha de bombó",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "água",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "carne",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 16,
+    "tempo_cozedura_minutos": 25,
+    "dificuldade": "Difícil",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 4,
+    "nome": "Mufete — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "peixe grelhado",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "feijão de óleo de palma",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "banana-pão",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 19,
+    "tempo_cozedura_minutos": 30,
+    "dificuldade": "Fácil",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 5,
+    "nome": "Feijão de óleo de palma — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "feijão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 22,
+    "tempo_cozedura_minutos": 35,
+    "dificuldade": "Média",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 6,
+    "nome": "Arroz de marisco — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "arroz",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "camarão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "amêijoas",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "tomate",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 25,
+    "tempo_cozedura_minutos": 40,
+    "dificuldade": "Difícil",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 7,
+    "nome": "Peixe grelhado — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "sal",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 28,
+    "tempo_cozedura_minutos": 45,
+    "dificuldade": "Fácil",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 8,
+    "nome": "Quizaca com ginguba — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "quizaca",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "ginguba",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 31,
+    "tempo_cozedura_minutos": 50,
+    "dificuldade": "Média",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 9,
+    "nome": "Frango no forno — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "frango",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "batatas",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 34,
+    "tempo_cozedura_minutos": 55,
+    "dificuldade": "Difícil",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 10,
+    "nome": "Bolo de ginguba — versão 1",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "ginguba",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "farinha",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "ovos",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "açúcar",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 37,
+    "tempo_cozedura_minutos": 60,
+    "dificuldade": "Fácil",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 11,
+    "nome": "Calulu de peixe — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "beringela",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 40,
+    "tempo_cozedura_minutos": 65,
+    "dificuldade": "Média",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 12,
+    "nome": "Muamba de galinha — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "galinha",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "abóbora",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 43,
+    "tempo_cozedura_minutos": 70,
+    "dificuldade": "Difícil",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 13,
+    "nome": "Funje com carne — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "farinha de bombó",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "água",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "carne",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 11,
+    "tempo_cozedura_minutos": 75,
+    "dificuldade": "Fácil",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 14,
+    "nome": "Mufete — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "peixe grelhado",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "feijão de óleo de palma",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "banana-pão",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 14,
+    "tempo_cozedura_minutos": 80,
+    "dificuldade": "Média",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 15,
+    "nome": "Feijão de óleo de palma — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "feijão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 17,
+    "tempo_cozedura_minutos": 15,
+    "dificuldade": "Difícil",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 16,
+    "nome": "Arroz de marisco — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "arroz",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "camarão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "amêijoas",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "tomate",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 20,
+    "tempo_cozedura_minutos": 20,
+    "dificuldade": "Fácil",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 17,
+    "nome": "Peixe grelhado — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "sal",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 23,
+    "tempo_cozedura_minutos": 25,
+    "dificuldade": "Média",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 18,
+    "nome": "Quizaca com ginguba — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "quizaca",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "ginguba",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 26,
+    "tempo_cozedura_minutos": 30,
+    "dificuldade": "Difícil",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 19,
+    "nome": "Frango no forno — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "frango",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "batatas",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 29,
+    "tempo_cozedura_minutos": 35,
+    "dificuldade": "Fácil",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 20,
+    "nome": "Bolo de ginguba — versão 2",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "ginguba",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "farinha",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "ovos",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "açúcar",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 32,
+    "tempo_cozedura_minutos": 40,
+    "dificuldade": "Média",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 21,
+    "nome": "Calulu de peixe — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "beringela",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 35,
+    "tempo_cozedura_minutos": 45,
+    "dificuldade": "Difícil",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 22,
+    "nome": "Muamba de galinha — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "galinha",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "abóbora",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 38,
+    "tempo_cozedura_minutos": 50,
+    "dificuldade": "Fácil",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 23,
+    "nome": "Funje com carne — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "farinha de bombó",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "água",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "carne",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 41,
+    "tempo_cozedura_minutos": 55,
+    "dificuldade": "Média",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 24,
+    "nome": "Mufete — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "peixe grelhado",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "feijão de óleo de palma",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "banana-pão",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 44,
+    "tempo_cozedura_minutos": 60,
+    "dificuldade": "Difícil",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 25,
+    "nome": "Feijão de óleo de palma — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "feijão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 12,
+    "tempo_cozedura_minutos": 65,
+    "dificuldade": "Fácil",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 26,
+    "nome": "Arroz de marisco — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "arroz",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "camarão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "amêijoas",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "tomate",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 15,
+    "tempo_cozedura_minutos": 70,
+    "dificuldade": "Média",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 27,
+    "nome": "Peixe grelhado — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "sal",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 18,
+    "tempo_cozedura_minutos": 75,
+    "dificuldade": "Difícil",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 28,
+    "nome": "Quizaca com ginguba — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "quizaca",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "ginguba",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 21,
+    "tempo_cozedura_minutos": 80,
+    "dificuldade": "Fácil",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 29,
+    "nome": "Frango no forno — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "frango",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "batatas",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 24,
+    "tempo_cozedura_minutos": 15,
+    "dificuldade": "Média",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 30,
+    "nome": "Bolo de ginguba — versão 3",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "ginguba",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "farinha",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "ovos",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "açúcar",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 27,
+    "tempo_cozedura_minutos": 20,
+    "dificuldade": "Difícil",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 31,
+    "nome": "Calulu de peixe — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "beringela",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 30,
+    "tempo_cozedura_minutos": 25,
+    "dificuldade": "Fácil",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 32,
+    "nome": "Muamba de galinha — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "galinha",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "abóbora",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 33,
+    "tempo_cozedura_minutos": 30,
+    "dificuldade": "Média",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 33,
+    "nome": "Funje com carne — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "farinha de bombó",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "água",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "carne",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 36,
+    "tempo_cozedura_minutos": 35,
+    "dificuldade": "Difícil",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 34,
+    "nome": "Mufete — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "peixe grelhado",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "feijão de óleo de palma",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "banana-pão",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 39,
+    "tempo_cozedura_minutos": 40,
+    "dificuldade": "Fácil",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 35,
+    "nome": "Feijão de óleo de palma — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "feijão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 42,
+    "tempo_cozedura_minutos": 45,
+    "dificuldade": "Média",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 36,
+    "nome": "Arroz de marisco — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "arroz",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "camarão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "amêijoas",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "tomate",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 10,
+    "tempo_cozedura_minutos": 50,
+    "dificuldade": "Difícil",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 37,
+    "nome": "Peixe grelhado — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "sal",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 13,
+    "tempo_cozedura_minutos": 55,
+    "dificuldade": "Fácil",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 38,
+    "nome": "Quizaca com ginguba — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "quizaca",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "ginguba",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 16,
+    "tempo_cozedura_minutos": 60,
+    "dificuldade": "Média",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 39,
+    "nome": "Frango no forno — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "frango",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "batatas",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 19,
+    "tempo_cozedura_minutos": 65,
+    "dificuldade": "Difícil",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 40,
+    "nome": "Bolo de ginguba — versão 4",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "ginguba",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "farinha",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "ovos",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "açúcar",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 22,
+    "tempo_cozedura_minutos": 70,
+    "dificuldade": "Fácil",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 41,
+    "nome": "Calulu de peixe — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "beringela",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 25,
+    "tempo_cozedura_minutos": 75,
+    "dificuldade": "Média",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 42,
+    "nome": "Muamba de galinha — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "galinha",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "abóbora",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "quiabos",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 28,
+    "tempo_cozedura_minutos": 80,
+    "dificuldade": "Difícil",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 43,
+    "nome": "Funje com carne — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "farinha de bombó",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "água",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "carne",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 31,
+    "tempo_cozedura_minutos": 15,
+    "dificuldade": "Fácil",
+    "porcoes": 2,
+    "origem": "Angola"
+  },
+  {
+    "id": 44,
+    "nome": "Mufete — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 3 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "peixe grelhado",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "feijão de óleo de palma",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "banana-pão",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 34,
+    "tempo_cozedura_minutos": 20,
+    "dificuldade": "Média",
+    "porcoes": 3,
+    "origem": "Angola"
+  },
+  {
+    "id": 45,
+    "nome": "Feijão de óleo de palma — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 4 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "feijão",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "cebola",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 37,
+    "tempo_cozedura_minutos": 25,
+    "dificuldade": "Difícil",
+    "porcoes": 4,
+    "origem": "Angola"
+  },
+  {
+    "id": 46,
+    "nome": "Arroz de marisco — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 5 pessoas.",
+    "categoria": "Prato principal",
+    "ingredientes": [
+      {
+        "nome": "arroz",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "camarão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "amêijoas",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "tomate",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 40,
+    "tempo_cozedura_minutos": 30,
+    "dificuldade": "Fácil",
+    "porcoes": 5,
+    "origem": "Angola"
+  },
+  {
+    "id": 47,
+    "nome": "Peixe grelhado — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 6 pessoas.",
+    "categoria": "Acompanhamento",
+    "ingredientes": [
+      {
+        "nome": "peixe",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "sal",
+        "quantidade": "2 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 43,
+    "tempo_cozedura_minutos": 35,
+    "dificuldade": "Média",
+    "porcoes": 6,
+    "origem": "Angola"
+  },
+  {
+    "id": 48,
+    "nome": "Quizaca com ginguba — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 7 pessoas.",
+    "categoria": "Sobremesa",
+    "ingredientes": [
+      {
+        "nome": "quizaca",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "ginguba",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "óleo de palma",
+        "quantidade": "3 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 11,
+    "tempo_cozedura_minutos": 40,
+    "dificuldade": "Difícil",
+    "porcoes": 7,
+    "origem": "Angola"
+  },
+  {
+    "id": 49,
+    "nome": "Frango no forno — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 8 pessoas.",
+    "categoria": "Peixe",
+    "ingredientes": [
+      {
+        "nome": "frango",
+        "quantidade": "1 porção"
+      },
+      {
+        "nome": "alho",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "limão",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "batatas",
+        "quantidade": "4 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 14,
+    "tempo_cozedura_minutos": 45,
+    "dificuldade": "Fácil",
+    "porcoes": 8,
+    "origem": "Angola"
+  },
+  {
+    "id": 50,
+    "nome": "Bolo de ginguba — versão 5",
+    "descricao": "Preparação tradicional ou caseira, adaptada para servir aproximadamente 2 pessoas.",
+    "categoria": "Carne",
+    "ingredientes": [
+      {
+        "nome": "ginguba",
+        "quantidade": "2 porção"
+      },
+      {
+        "nome": "farinha",
+        "quantidade": "3 porção"
+      },
+      {
+        "nome": "ovos",
+        "quantidade": "4 porção"
+      },
+      {
+        "nome": "açúcar",
+        "quantidade": "1 porção"
+      }
+    ],
+    "tempo_preparacao_minutos": 17,
+    "tempo_cozedura_minutos": 50,
+    "dificuldade": "Média",
+    "porcoes": 2,
+    "origem": "Angola"
+  }
+]

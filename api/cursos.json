@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "titulo": "Programação Web — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em programação web.",
+    "categoria": "Tecnologia",
+    "nivel": "Iniciante",
+    "duracao_horas": 8,
+    "preco": 5000,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 2,
+    "titulo": "Design Gráfico — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em design gráfico.",
+    "categoria": "Negócios",
+    "nivel": "Intermédio",
+    "duracao_horas": 11,
+    "preco": 6750,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 3,
+    "titulo": "Marketing Digital — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em marketing digital.",
+    "categoria": "Design",
+    "nivel": "Avançado",
+    "duracao_horas": 14,
+    "preco": 8500,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 4,
+    "titulo": "Excel Profissional — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em excel profissional.",
+    "categoria": "Produtividade",
+    "nivel": "Iniciante",
+    "duracao_horas": 17,
+    "preco": 10250,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 5,
+    "titulo": "Python para Iniciantes — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em python para iniciantes.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Intermédio",
+    "duracao_horas": 20,
+    "preco": 12000,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 6,
+    "titulo": "Gestão de Projetos — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em gestão de projetos.",
+    "categoria": "Tecnologia",
+    "nivel": "Avançado",
+    "duracao_horas": 23,
+    "preco": 13750,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 7,
+    "titulo": "Cibersegurança — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em cibersegurança.",
+    "categoria": "Negócios",
+    "nivel": "Iniciante",
+    "duracao_horas": 26,
+    "preco": 15500,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 8,
+    "titulo": "Desenvolvimento Mobile — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em desenvolvimento mobile.",
+    "categoria": "Design",
+    "nivel": "Intermédio",
+    "duracao_horas": 29,
+    "preco": 17250,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 9,
+    "titulo": "Bases de Dados — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em bases de dados.",
+    "categoria": "Produtividade",
+    "nivel": "Avançado",
+    "duracao_horas": 32,
+    "preco": 19000,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 10,
+    "titulo": "Empreendedorismo — nível Inicial",
+    "descricao": "Curso orientado para desenvolver competências práticas em empreendedorismo.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Iniciante",
+    "duracao_horas": 35,
+    "preco": 20750,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 11,
+    "titulo": "Programação Web — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em programação web.",
+    "categoria": "Tecnologia",
+    "nivel": "Intermédio",
+    "duracao_horas": 38,
+    "preco": 22500,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 12,
+    "titulo": "Design Gráfico — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em design gráfico.",
+    "categoria": "Negócios",
+    "nivel": "Avançado",
+    "duracao_horas": 41,
+    "preco": 24250,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 13,
+    "titulo": "Marketing Digital — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em marketing digital.",
+    "categoria": "Design",
+    "nivel": "Iniciante",
+    "duracao_horas": 44,
+    "preco": 26000,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 14,
+    "titulo": "Excel Profissional — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em excel profissional.",
+    "categoria": "Produtividade",
+    "nivel": "Intermédio",
+    "duracao_horas": 47,
+    "preco": 27750,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 15,
+    "titulo": "Python para Iniciantes — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em python para iniciantes.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Avançado",
+    "duracao_horas": 50,
+    "preco": 29500,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 16,
+    "titulo": "Gestão de Projetos — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em gestão de projetos.",
+    "categoria": "Tecnologia",
+    "nivel": "Iniciante",
+    "duracao_horas": 53,
+    "preco": 31250,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 17,
+    "titulo": "Cibersegurança — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em cibersegurança.",
+    "categoria": "Negócios",
+    "nivel": "Intermédio",
+    "duracao_horas": 56,
+    "preco": 33000,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 18,
+    "titulo": "Desenvolvimento Mobile — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em desenvolvimento mobile.",
+    "categoria": "Design",
+    "nivel": "Avançado",
+    "duracao_horas": 59,
+    "preco": 34750,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 19,
+    "titulo": "Bases de Dados — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em bases de dados.",
+    "categoria": "Produtividade",
+    "nivel": "Iniciante",
+    "duracao_horas": 62,
+    "preco": 36500,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 20,
+    "titulo": "Empreendedorismo — nível Intermédio",
+    "descricao": "Curso orientado para desenvolver competências práticas em empreendedorismo.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Intermédio",
+    "duracao_horas": 65,
+    "preco": 38250,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 21,
+    "titulo": "Programação Web — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em programação web.",
+    "categoria": "Tecnologia",
+    "nivel": "Avançado",
+    "duracao_horas": 68,
+    "preco": 40000,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 22,
+    "titulo": "Design Gráfico — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em design gráfico.",
+    "categoria": "Negócios",
+    "nivel": "Iniciante",
+    "duracao_horas": 10,
+    "preco": 41750,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 23,
+    "titulo": "Marketing Digital — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em marketing digital.",
+    "categoria": "Design",
+    "nivel": "Intermédio",
+    "duracao_horas": 13,
+    "preco": 43500,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 24,
+    "titulo": "Excel Profissional — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em excel profissional.",
+    "categoria": "Produtividade",
+    "nivel": "Avançado",
+    "duracao_horas": 16,
+    "preco": 45250,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 25,
+    "titulo": "Python para Iniciantes — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em python para iniciantes.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Iniciante",
+    "duracao_horas": 19,
+    "preco": 47000,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 26,
+    "titulo": "Gestão de Projetos — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em gestão de projetos.",
+    "categoria": "Tecnologia",
+    "nivel": "Intermédio",
+    "duracao_horas": 22,
+    "preco": 48750,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 27,
+    "titulo": "Cibersegurança — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em cibersegurança.",
+    "categoria": "Negócios",
+    "nivel": "Avançado",
+    "duracao_horas": 25,
+    "preco": 50500,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 28,
+    "titulo": "Desenvolvimento Mobile — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em desenvolvimento mobile.",
+    "categoria": "Design",
+    "nivel": "Iniciante",
+    "duracao_horas": 28,
+    "preco": 52250,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 29,
+    "titulo": "Bases de Dados — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em bases de dados.",
+    "categoria": "Produtividade",
+    "nivel": "Intermédio",
+    "duracao_horas": 31,
+    "preco": 54000,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 30,
+    "titulo": "Empreendedorismo — nível Avançado",
+    "descricao": "Curso orientado para desenvolver competências práticas em empreendedorismo.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Avançado",
+    "duracao_horas": 34,
+    "preco": 55750,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 31,
+    "titulo": "Programação Web — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em programação web.",
+    "categoria": "Tecnologia",
+    "nivel": "Iniciante",
+    "duracao_horas": 37,
+    "preco": 57500,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 32,
+    "titulo": "Design Gráfico — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em design gráfico.",
+    "categoria": "Negócios",
+    "nivel": "Intermédio",
+    "duracao_horas": 40,
+    "preco": 59250,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 33,
+    "titulo": "Marketing Digital — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em marketing digital.",
+    "categoria": "Design",
+    "nivel": "Avançado",
+    "duracao_horas": 43,
+    "preco": 61000,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 34,
+    "titulo": "Excel Profissional — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em excel profissional.",
+    "categoria": "Produtividade",
+    "nivel": "Iniciante",
+    "duracao_horas": 46,
+    "preco": 62750,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 35,
+    "titulo": "Python para Iniciantes — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em python para iniciantes.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Intermédio",
+    "duracao_horas": 49,
+    "preco": 64500,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 36,
+    "titulo": "Gestão de Projetos — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em gestão de projetos.",
+    "categoria": "Tecnologia",
+    "nivel": "Avançado",
+    "duracao_horas": 52,
+    "preco": 66250,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 37,
+    "titulo": "Cibersegurança — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em cibersegurança.",
+    "categoria": "Negócios",
+    "nivel": "Iniciante",
+    "duracao_horas": 55,
+    "preco": 68000,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 38,
+    "titulo": "Desenvolvimento Mobile — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em desenvolvimento mobile.",
+    "categoria": "Design",
+    "nivel": "Intermédio",
+    "duracao_horas": 58,
+    "preco": 69750,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 39,
+    "titulo": "Bases de Dados — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em bases de dados.",
+    "categoria": "Produtividade",
+    "nivel": "Avançado",
+    "duracao_horas": 61,
+    "preco": 71500,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 40,
+    "titulo": "Empreendedorismo — nível Profissional",
+    "descricao": "Curso orientado para desenvolver competências práticas em empreendedorismo.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Iniciante",
+    "duracao_horas": 64,
+    "preco": 73250,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 41,
+    "titulo": "Programação Web — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em programação web.",
+    "categoria": "Tecnologia",
+    "nivel": "Intermédio",
+    "duracao_horas": 67,
+    "preco": 75000,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 42,
+    "titulo": "Design Gráfico — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em design gráfico.",
+    "categoria": "Negócios",
+    "nivel": "Avançado",
+    "duracao_horas": 9,
+    "preco": 76750,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 43,
+    "titulo": "Marketing Digital — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em marketing digital.",
+    "categoria": "Design",
+    "nivel": "Iniciante",
+    "duracao_horas": 12,
+    "preco": 78500,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 44,
+    "titulo": "Excel Profissional — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em excel profissional.",
+    "categoria": "Produtividade",
+    "nivel": "Intermédio",
+    "duracao_horas": 15,
+    "preco": 80250,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 45,
+    "titulo": "Python para Iniciantes — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em python para iniciantes.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Avançado",
+    "duracao_horas": 18,
+    "preco": 82000,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 46,
+    "titulo": "Gestão de Projetos — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em gestão de projetos.",
+    "categoria": "Tecnologia",
+    "nivel": "Iniciante",
+    "duracao_horas": 21,
+    "preco": 83750,
+    "moeda": "AOA",
+    "instrutor": "Ana Ferreira",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 47,
+    "titulo": "Cibersegurança — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em cibersegurança.",
+    "categoria": "Negócios",
+    "nivel": "Intermédio",
+    "duracao_horas": 24,
+    "preco": 85500,
+    "moeda": "AOA",
+    "instrutor": "Carlos Manuel",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 48,
+    "titulo": "Desenvolvimento Mobile — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em desenvolvimento mobile.",
+    "categoria": "Design",
+    "nivel": "Avançado",
+    "duracao_horas": 27,
+    "preco": 87250,
+    "moeda": "AOA",
+    "instrutor": "Marta Costa",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  },
+  {
+    "id": 49,
+    "titulo": "Bases de Dados — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em bases de dados.",
+    "categoria": "Produtividade",
+    "nivel": "Iniciante",
+    "duracao_horas": 30,
+    "preco": 89000,
+    "moeda": "AOA",
+    "instrutor": "Paulo Silva",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": false
+  },
+  {
+    "id": 50,
+    "titulo": "Empreendedorismo — nível Prático",
+    "descricao": "Curso orientado para desenvolver competências práticas em empreendedorismo.",
+    "categoria": "Desenvolvimento",
+    "nivel": "Intermédio",
+    "duracao_horas": 33,
+    "preco": 90750,
+    "moeda": "AOA",
+    "instrutor": "Joana Mendes",
+    "modulos": [
+      "Módulo 1: Fundamentos",
+      "Módulo 2: Ferramentas",
+      "Módulo 3: Aplicação prática",
+      "Módulo 4: Projeto final"
+    ],
+    "certificado": true
+  }
+]
