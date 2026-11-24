@@ -1,16 +1,22 @@
-# _service — API de Teste
+<div align="center">
+  <img src="asset/logo.png" alt="Logo do _service — API de Teste" width="700">
 
-Uma API pública e gratuita que disponibiliza conjuntos de dados fictícios em formato JSON para testes e desenvolvimento de aplicações.
+  # _service — API de Teste
 
-## Sobre o projecto
+  **Uma coleção pública de dados JSON para testes e desenvolvimento.**
+</div>
 
-O `_service` foi criado para facilitar os testes de aplicações web e mobile, permitindo aos programadores consumir dados externos sem precisar de desenvolver um backend ou configurar uma base de dados.
+---
 
-Os dados são disponibilizados através de ficheiros JSON hospedados no GitHub Pages.
+## Sobre o projeto
 
-**Esta API é somente de leitura: permite exclusivamente requisições GET.**
+O **_service** disponibiliza conjuntos de dados fictícios em formato JSON para programadores testarem aplicações web, aplicações mobile e integrações que consomem dados através de HTTP.
+
+Os ficheiros são hospedados no GitHub Pages e disponibilizados para consulta pública. Esta é uma API estática e **somente de leitura**: os endpoints permitem requisições `GET`.
 
 ## Base URL
+
+Quando o GitHub Pages estiver ativado e publicado, a base URL será:
 
 ```text
 https://horaciomanuel26.github.io/_service/api
@@ -31,59 +37,67 @@ https://horaciomanuel26.github.io/_service/api
 | `/empresas.json` | Empresas e funcionários | 50 |
 | `/jogos.json` | Jogos, plataformas e classificações | 50 |
 
-## Método HTTP
+Cada ficheiro contém 50 registos, totalizando **500 registos**.
 
-O único método disponibilizado para consulta é:
+## Como consumir a API
 
-- `GET` — obter os dados.
+Podes utilizar os endpoints em JavaScript, React, React Native, PHP, Python ou noutra tecnologia que suporte requisições HTTP.
 
-Não são suportadas operações `POST`, `PUT`, `PATCH` ou `DELETE`.
-
-## Como utilizar
-
-### JavaScript — Fetch
+### Exemplo com JavaScript (Fetch)
 
 ```javascript
 const API_URL = "https://horaciomanuel26.github.io/_service/api";
 
 async function buscarNoticias() {
-    try {
-        const resposta = await fetch(`${API_URL}/noticias.json`);
+  try {
+    const resposta = await fetch(`${API_URL}/noticias.json`);
 
-        if (!resposta.ok) {
-            throw new Error("Erro ao consultar a API.");
-        }
-
-        const noticias = await resposta.json();
-
-        console.log(noticias);
-    } catch (erro) {
-        console.error(erro);
+    if (!resposta.ok) {
+      throw new Error("Não foi possível obter os dados.");
     }
+
+    const noticias = await resposta.json();
+    console.log(noticias);
+  } catch (erro) {
+    console.error("Erro ao consultar a API:", erro);
+  }
 }
 
 buscarNoticias();
 ```
 
-### React Native — Fetch
+### Exemplo com React Native
 
 ```javascript
 const API_URL = "https://horaciomanuel26.github.io/_service/api";
 
 async function buscarProdutos() {
-    try {
-        const resposta = await fetch(`${API_URL}/produtos.json`);
+  try {
+    const resposta = await fetch(`${API_URL}/produtos.json`);
 
-        const produtos = await resposta.json();
-
-        console.log(produtos);
-    } catch (erro) {
-        console.error("Erro:", erro);
+    if (!resposta.ok) {
+      throw new Error("Não foi possível obter os produtos.");
     }
+
+    const produtos = await resposta.json();
+    console.log(produtos);
+  } catch (erro) {
+    console.error("Erro ao consultar produtos:", erro);
+  }
 }
 ```
 
-## Estrutura do projecto
+## Método HTTP permitido
+
+O acesso aos dados é feito através do método:
+
+| Método | Finalidade |
+|---|---|
+| `GET` | Consultar os ficheiros JSON |
+
+Não são disponibilizadas operações de escrita através de `POST`, `PUT`, `PATCH` ou `DELETE`. Para alterar os dados, é necessário editar os ficheiros diretamente no repositório e publicar as alterações.
+
+## Estrutura do projeto
 
 ```text
 _service/
@@ -100,31 +114,26 @@ _service/
 │   ├── empresas.json
 │   └── jogos.json
 │
+├── asset/
+│   └── logo.png
+│
 └── README.md
 ```
 
-## Características
+## Características e limitações
 
-- 10 conjuntos de dados.
-- 50 registos por ficheiro.
-- 500 registos no total.
-- Dados em formato JSON.
-- Acesso público.
-- Sem autenticação.
-- Somente leitura (GET).
-- Compatível com aplicações web e mobile.
+- 10 conjuntos de dados em formato JSON.
+- 50 registos por ficheiro — 500 no total.
+- Acesso público, sem autenticação.
+- Consulta somente através de `GET`.
+- Não possui base de dados nem backend dinâmico.
+- Os dados não são alterados automaticamente.
+- A disponibilidade dos endpoints depende da publicação do GitHub Pages.
 
-## Limitações
+## Objetivo
 
-Por ser uma API baseada em ficheiros estáticos:
+O projeto foi criado para fins educativos e de desenvolvimento, permitindo praticar o consumo de APIs, a apresentação de dados, a pesquisa, a filtragem e outras funcionalidades em aplicações web e mobile.
 
-- Não possui base de dados.
-- Não permite criar, editar ou eliminar registos através de requisições HTTP.
-- Os dados só são actualizados quando os ficheiros são modificados no repositório.
-- A disponibilidade depende da hospedagem do GitHub Pages.
+## Aviso
 
-## Finalidade
-
-Este projecto destina-se a fins educativos, testes e desenvolvimento de aplicações que necessitam de consumir dados através de requisições HTTP.
-
-**Nota:** Todos os dados disponibilizados são fictícios e devem ser utilizados exclusivamente para testes e demonstrações.
+Todos os dados disponibilizados são fictícios e destinam-se exclusivamente a testes, demonstrações e aprendizagem. Não devem ser considerados informações reais.
